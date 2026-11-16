@@ -1,0 +1,1 @@
+{"output": "{\"amount_text\":null,\"horizon_text\":null,\"risk_preference\":null,\"purpose\":\"\",\"excluded_categories\":[],\"fund_requests\":[{\"category\":\"liquid\",\"count\":1},{\"category\":\"debt\",\"count\":1},{\"category\":\"flexi\",\"count\":2},{\"category\":\"small caps\",\"count\":2}],\"stock_count\":10,\"trendy_stock_count\":2,\"include_gold\":null}"}

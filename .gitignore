@@ -3,8 +3,8 @@
 Thumbs.db
 
 # local data
-data/
-docs/
+data
+docs
 
 # Editor
 .vscode/
@@ -43,3 +43,7 @@ build/
 
 # Local SQLite DB
 data/*.db
+
+# Local DB / Langfuse data
+data/langfuse/
+data/_from_repo_root/

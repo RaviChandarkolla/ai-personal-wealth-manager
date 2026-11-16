@@ -1,0 +1,49 @@
+{
+  "as_of_date": "2026-03-31",
+  "country": "India",
+  "currency": "INR",
+  "indicators": {
+    "gdp_growth_pct": {
+      "label": "Real GDP Growth (YoY)",
+      "value": 6.8,
+      "unit": "%",
+      "trend": "expanding",
+      "implication": "Strong domestic demand and capex cycle support corporate revenue compounding."
+    },
+    "cpi_inflation_pct": {
+      "label": "CPI Headline Inflation",
+      "value": 4.4,
+      "unit": "%",
+      "trend": "moderating",
+      "implication": "Within RBI tolerance band (2%–6%), easing input cost pressure for FMCG and Auto."
+    },
+    "rbi_repo_rate_pct": {
+      "label": "RBI Policy Repo Rate",
+      "value": 6.25,
+      "unit": "%",
+      "trend": "neutral_to_easing",
+      "implication": "Stable borrowing costs; supportive of credit growth and bank NIM stability."
+    },
+    "gsec_10y_yield_pct": {
+      "label": "10Y Sovereign G-Sec Yield",
+      "value": 6.72,
+      "unit": "%",
+      "trend": "stable",
+      "implication": "Risk-free benchmark for equity cost of capital and valuation multiples."
+    },
+    "india_vix": {
+      "label": "India VIX (Volatility Index)",
+      "value": 13.8,
+      "unit": "pts",
+      "trend": "low_volatility",
+      "implication": "Constructive market sentiment; favorece fundamental bottom-up stock selection."
+    },
+    "fiscal_deficit_gdp_pct": {
+      "label": "Fiscal Deficit (% of GDP)",
+      "value": 4.8,
+      "unit": "%",
+      "trend": "consolidating",
+      "implication": "Fiscal consolidation prevents crowding out of private sector credit."
+    }
+  }
+}

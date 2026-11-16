@@ -483,6 +483,48 @@ class MetadataStore:
         self.conn.commit()
         return len(rows)
 
+    def prune_master(
+        self,
+        *,
+        allowed_plans: Sequence[str] | None = None,
+        allowed_options: Sequence[str] | None = None,
+    ) -> int:
+        """Remove scheme_master rows (and their FTS entries) not conforming to allowed plans/options."""
+        from ..config import get_settings
+
+        s = get_settings()
+        plans = [
+            p.lower() for p in (allowed_plans if allowed_plans is not None else s.master_allowed_plans)
+        ]
+        options = [
+            o.lower()
+            for o in (allowed_options if allowed_options is not None else s.master_allowed_options)
+        ]
+        where_clauses: list[str] = []
+        params: list[str] = []
+        if plans and "all" not in plans:
+            placeholders = ",".join("?" * len(plans))
+            where_clauses.append(f"plan NOT IN ({placeholders})")
+            params.extend(plans)
+        if options and "all" not in options:
+            placeholders = ",".join("?" * len(options))
+            where_clauses.append(f"option NOT IN ({placeholders})")
+            params.extend(options)
+        if not where_clauses:
+            return 0
+        cond = " OR ".join(where_clauses)
+        cursor = self.conn.execute(f"SELECT code FROM scheme_master WHERE {cond}", params)
+        del_codes = [row[0] for row in cursor.fetchall()]
+        if not del_codes:
+            return 0
+        self.conn.execute(f"DELETE FROM scheme_master WHERE {cond}", params)
+        if self._has_fts5:
+            self.conn.executemany(
+                "DELETE FROM scheme_master_fts WHERE code = ?", [(c,) for c in del_codes]
+            )
+        self.conn.commit()
+        return len(del_codes)
+
     def get_master(self, code: str) -> SchemeMasterRecord | None:
         row = self.conn.execute(
             "SELECT * FROM scheme_master WHERE code = ?", (code,)
@@ -679,14 +721,20 @@ class MetadataStore:
         from ..config import get_settings
 
         s = get_settings()
+        plans = [p.lower() for p in s.master_allowed_plans] if s.master_allowed_plans else ["direct"]
+        options = [o.lower() for o in s.master_allowed_options] if s.master_allowed_options else ["growth"]
         m_where: list[str] = [
             "m.code NOT IN (SELECT code FROM scheme)",
-            "m.plan = 'direct'",
-            "m.option = 'growth'",
             "COALESCE(m.structure, 'open') = 'open'",
             "m.expense_ratio IS NOT NULL",
             "m.aum_cr IS NOT NULL",
         ]
+        if "all" not in plans:
+            p_ph = ",".join(f"'{p}'" for p in plans)
+            m_where.append(f"m.plan IN ({p_ph})")
+        if "all" not in options:
+            o_ph = ",".join(f"'{o}'" for o in options)
+            m_where.append(f"m.option IN ({o_ph})")
         if only_unseeded:
             m_where.append("(SELECT COUNT(*) FROM nav n WHERE n.code = m.code) < 30")
 

@@ -1,0 +1,628 @@
+{
+  "as_of": "2026-10-22",
+  "generated_by": "assistant research: live Google News RSS headlines read and cited by hand",
+  "sectors": [
+    {
+      "name": "Capital Goods",
+      "outlook": "positive",
+      "score": 78.0,
+      "rationale": "Mutual funds are raising capital-goods allocation on the capex cycle; defence, power equipment and bearings names are in focus.",
+      "sources": [
+        {
+          "title": "Ashok Leyland, BEL, 1 more defence stock set for next upmove: Bajaj Broking",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcjAxcUJNaXFyNk82b2ZPYnRXRzNNNkZrN2o0Z3kzRTRmZ3FBTVhHWGdCMGlDdmZhSU5ZeDZWTzRxNDFvVGxNLTk2UmFnUTkyUFNYYV9sckJyQXNhS0tBbEFJR2RicjRuTkxDQ1R4ZGlZcF9wWHA1R2I0RGplRlIta2QxWkh3X212cC1EaUVtQV9hMUpPb21HOWtEVU1YLVE2czM3UDRSN0JyVWpwdEwzVGEybFlrdHFKdW1OdTZDWE9GLXFQaDhvcnNpaFByVzBLM3cwVWdlWGRYckFaX0pmY0JSUEZzSFhiVE12X29SWkFMdGtr0gH6AUFVX3lxTE9aaExqNk1Tc01qdEQ2eVdoQV8xdFYzTGdJRFV4UU1MS1RfU1FPcm51eHYwYWpUTHZKSnVlVVdtaVQwNDFfN3lHbjY5S2FGblFMYUU1eGF3azgtNTI4VDIzX05QS3dXUWl3NHNZNDZBNUVmQ2MyWUVQZEV0dFpvUFR2LS14TldHSm5NcjhLNXpIRHkwZzI0VzhKaW1scDN0MW80LWp4eEpRYkRBcWNsUEhRbnA3WF9jbVFoWXkySnZIUkF4ZWp5OWFkU3hFeS1QTmNjZE5hdFVvMHVCcks2N2xxeWw3T1JHUGVjeERzUUl5eUdvbmxNcW9HUUE?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-05-26"
+        },
+        {
+          "title": "Mutual funds raise capital goods allocation amid broader capex opportunity even as valuations remain...",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONGZxRHlFWmJxMzkxS1dETHJxY3Q3ZjkxWnltcmgydEl0blItc3hTU1hhSDRZWDVHTFJZNjFrZTRnVDlfdlpUbWpXREJ5MHpFbTVhSHlqQmNNdWFSU3F0ODVmdXNqQjAzUGxuQlZ5LU5UR2E1aGV6TWp2NXFwRkl5eVlZZ3VLa3ZvVm52MWpqUVNZdVp5cVp4V3BscnBPLXF5UGdhSi1LNjR0UjVfVDJLeVY1b0dPZUVoTk04ejh2Wk1qZzZuYU1YSWtzb2x0UUpQQjdSc0trUWFWT2Z3bTRRRC16a21mRUNHa3pUbkNmN3dUOGhYd00yX2x2ZFJBelVNZUhwLdIBigJBVV95cUxNNXg2aHpUeW1NZ3J6ZEtkeE54X3llR01IR3Y1M1ZLZHhhSjJuY09LSmhBVlR5R1pfZTFmZWQzOTAxRWdQRlNfUk40T1ZBVlVuUnZMU0RaWWVfZkt5ZklIOVJnUkU1U0xZNVpQOXAyb05sRHdYWjFGcl9zY294RTJYNXpPdkluU1hEUDRqSHZzOHBNaHE5VFBKX0FfRFZza3hfaFpHdlRNd3ZyZm5hYzJsWEFxUkYtaXY0RlUyVDhqdTEycFJMNjZHcUFxcF9qVHE1cE1KbVlWTXpEYjhodHduNU9VcG5YMlFDdTdoTUpDeDlCdk83MG05WlF4VHY2cTFwSTFxdWstQThydw?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-09-22"
+        },
+        {
+          "title": "3 Bearings Stocks in India Riding the Industrial Capex and Auto Volume Boom in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Wjk3Ql9FTmc2STZuSjlsZHFsNE4wdHF5bnJUcXNaX1JVT1lGaHdxaFU0SGsxOXl4Q3RydUZvbXFUX0EwOXVTc2h6Y2NCeHlLN3VVTGY3bEQ2bFhQWjR2Ug?oc=5",
+          "publisher": "Univest",
+          "published_at": "2026-08-21"
+        },
+        {
+          "title": "Transformers and Rectifiers stock rallies over 18% after strong Q2 earnings; 135% PAT jump, margin growth in focus",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVTd1TVZYcUtUNU9ldU1aTER4aFZaWU1nVUdyMXkzSEZYYlZSVFdGVVBoTzQxODI2N0d0Q2U4amRKVmdqWTB2Q1Y1RkVkVmxScG9kMkxCR2djMW4wbkotc0k2cm5HR2d3RU0xZWtZdUh3cnUxWEEyREVFYnpsNC1EeS0wRlJVZUdKaGlVWmdBQ3JkOFN3cWdDaUpCbWxvdGZNXzRHRnRlVm1pNEstX2s2SjRXRk1POWF6N2FsT0xvVWhINGFla2JDUGxIWTRWYUhEaHZ0WGZDSFViaGVBbnBsRTBxd3pRQlcwNFdEWUhHZDI2SFFtRmRhR0s2UUp6UQ?oc=5",
+          "publisher": "Upstox",
+          "published_at": "2026-10-14"
+        },
+        {
+          "title": "5 Best Infrastructure Stocks in India to Watch in 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MZnFMZUtvN0xNWmF0UW1MdmZZOXlvODBnMTRBbnhPVVVvc3M1dk95U2hRaTZxMjV5VS0wM1d1NnRZcFVCN3JmY0FvMmNobENuVkw4TXFCalExZTNITHl0UTJhbVhnWVQ2Y2hjUFoya2NHUQ?oc=5",
+          "publisher": "Univest",
+          "published_at": "2026-08-20"
+        }
+      ]
+    },
+    {
+      "name": "Electronics Manufacturing & Semiconductors",
+      "outlook": "positive",
+      "score": 76.0,
+      "rationale": "Brokerages see multi-year growth in Indian EMS; the Budget backs AI data centres and the semiconductor ecosystem.",
+      "sources": [
+        {
+          "title": "HDFC Sec sees multi-year growth in India EMS; Syrma SGS top pick: Check why",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0VKd2FaeG02OWlPNmxyV0JfUlIwVGVyOFUzZ3Jqc0FibmFyeFBGUlZneGlEdHN1X0s5RE1QazYxQzV1SnQ2OGRieTlxTW5hYWxEb3R5TXZnbE1LeW5NX2F2dzJ0ZVljclFnc1ZfbDM1amNYRVEzaUpGMUpGMmVHQ2lpamdRdVBFZTQ2NlN1cHRwM2QzUUs2WHNEY0RRMWpGcWI2dVFRTGNQTzd5Y1V0N0lieG54QW1KUmU0Y3RxUmhaanJvdkhEUWtTdjNzWTZfcF9reHQySdIB3AFBVV95cUxQYW9QTEFZYy11eW5fQ0NsVjhxcEtDYU84M3VVem5aa2Y1allnWkhWX0htY1pHT0pVMkwtVXd2Y29lZVhTN0hsRVFoXzlyRUtTRjdzMWdPSlVLb1VueWgzWGxBYlhkeDdCbnVkZExZYnhKZUdPRkJQVTBsM1E2Z3NRRUhOTlNHaGxna0ZiNzhZQ29OWXlxekx3cEl4Z0g1eVNpLVdRVklNSVg5akFVNkVpeTR4S2pCWDQyY2dwTmQ0WS16cmlxU1VZTjk0X09nWlpFR0xwa3R4Y09GYkI5?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-04-07"
+        },
+        {
+          "title": "Budget 2026-27 lays strong foundation for AI Data Centres and Semiconductor Ecosystem",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TTTdxY0hKOGNybFJ2TWZaYWtRUnFkOVFyRTZYcTVYQjZpbVhaNHQ4ZVZOQk91Nm1MdGlzcjQzQk9UUUxfU2JSV1JHNjRkWFVFMk5nQnVTY1NlSU43cXVaYUNDcVM1R0syVlVOQlAyRDBIbkhncmRBN2NB?oc=5",
+          "publisher": "Press Information Bureau",
+          "published_at": "2026-02-01"
+        },
+        {
+          "title": "Semiconductor Industry in India: Incentives and Key Players",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQTVRbl9ZR3VpLVZOSUJfTG5yV2dtYzY3MG1WeEZrY3V0T0FoSHQzRzV3ZXptbWtxRHd4T0pCdjFqejdsVE9fTVY2WGRfaWtUR2pCTEE4VEFOOEpCcS1kMWRTZ2lGYnlZVF82YnloY3ZOOTJoQkRsLVZNQ3d5bjNIWXNnWGl2UVpRc3dJSURkSzc5U1FZMi03TUwyaWJhZlRhVmlseTNkbXRfTnhuZ2NJRUY5ZDJTc00tUjY0c0lsSGctMEJTNE9GWW1pcjZhSERsWXc?oc=5",
+          "publisher": "India Briefing",
+          "published_at": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "outlook": "positive",
+      "score": 74.0,
+      "rationale": "Bernstein initiated coverage on six pharma stocks citing three sector tailwinds, with up to 40% upside.",
+      "sources": [
+        {
+          "title": "6 pharma stocks that Bernstein sees up to 40% upside potential. Do you own any?",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOM0xQRnJZQjhKMTBsQm15Q21KQ0h3aHl3TnNxYUpSNVBmaXlKRVRnWUdXeFY3WmZrcVhoeWdzYW5UNVUxRGlvbVdHRnlIU3hveUtqU1BiUnR1UGVLUUFfV3JJUmJxNVNhbmN6eVNscW9CcThadmtjZ3pmaVYxWkEyOWJ0U3ZueXFfTm94RE85ckdxa0R1cXpXZEdfZndGWXFyM2tLaTFJMHo3bTJnR0tmbmpSQ2tMXzZHNkM5LVJjZWtIclBfUXFXRV9QVEtjNWo1TkNvSHU3LUhfSTRxWERrZHFrSTU1WUNvbGNxaGoySVp4VHhrTlZHdw?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-05-24"
+        },
+        {
+          "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYzd4M2hNdlk1M2RzYmJZa3VkeWdLZHVRSV84SUlMa0l3d2ZWaEF2OGtpUjJfNkpCT0ZkMW5PaUN4SmJIMi15TUFpQ3daX21sV2VVVGJfSHp3VU4tZlBhYzNMaWsyWDFJY2V1c0dNelpCaWNhTzU1ZDQxYVY1bWtObW51U3dIVWlFblB1WklUdFRmZFVOWWFaRl9LVl93Y09FUmRXeUQzVnVsQzY2QTZvbTRUUEMyRzBpRHhBLVFUMWtodkJZcUx1a2xOUno3WWVkYnU0R3ppdC1Vb09hUTJENzhmckxlenAtWGpvNllHdWJEQnpZYm5aSm9DONIBgAJBVV95cUxPaV8zRFBuaWczRVJsLUtUVnVhYkN4RjBHaXNidHcwQ2ZuSFIyRlBWRFVLUS0zVjd5a1JCdVBYaU15YWhSYjdhTG1adHl4dzVfQ0ZEeF9aX1lsV3dhbVIzR1NkNFJHT3JES20xVV9Bcko0LXFaTmRuRzZYM3h1VmNmSzU1LUxoRXhiTnNUVERSWGZfWUx4R0lUckd1YkdTY1pPSEV0aUNCbWNLQ3AzbWc3YTZRUHJmcXg2TTIyZWVlbkRaem1LOTlPU3ctb004UlFjVzBHNUNtU3I1UWdQYkJnd21FclRTeEZNQWxHUlotWUVzY0NzMkxuam5fdENKdDdK?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-05-22"
+        },
+        {
+          "title": "Stocks to buy: 3 stocks to beat the market in 2026: YES Securities lists Entero, Maruti and Lupin as June stock picks",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQjVTWVBGUjV4bWs4MTVXRHgteTAzNnlTMHpZa213R2dRZ09FTWc2QW9oSDV0MEtrRXBqcVlHXzdSZEk2X1Ytd2hVRVNKVF9peUtHUjdKNGxpcllpYVJ1VUFreVNSQjFxM1pIbHdpWEJEVldhZUJ2RHBNaTh3UlhKaFV2U01ldjZCWXJsdWZaUm1GUUNDMnhHSnJaV1VvN0FlaVRoaEo3QzY4WVdMNlFSZTJRZS05Vm1RN1F4UXBQNEkybFYxUmp4WHZNclRORHV4RktGNktMYlVWOVlHOUJiQkVaXy14aUVPR0NSRW1LRUtXMXhUcEswN2g1S2ttMkpuZEZxd2FtSWY5SmpvbUpaa1VR0gGXAkFVX3lxTE9WZXJKaEp3UElIVWEzTTZIRXRPUExpaDdHSHVEWEdiZUxyUWZnLVNBeEctMktqOXB5ZTdLd1JFc3dPa1FRQVM1RVlXS1Fnb2NvX0t5WDJUZ0o4NldYX3gyUnNObFZzcUNMQVVEMl85UVNEM3RyTWhGNWg0cTlFb05WWnZWNnhVLUt6bW1GTDdxWFlPX3BKbk4zNFZQdGpKN3NnczUyR0NBZ05SYjc1VXg4RXBIaWhYblkwTEd4aHQ3VEg2VmdmU0JleDhCbHhqaFJJTXJFZVRORWpnLU1mT05kR1hrZ2RGc0Z5NnZ1NzFVZERPSkYyWnJQTmIxUHNiZUxSaDN3Y1JPTXpYTUQ4WXJiVFc5RkQ1bw?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-06-13"
+        }
+      ]
+    },
+    {
+      "name": "Information Technology",
+      "outlook": "positive",
+      "score": 72.0,
+      "rationale": "IT stocks rallied on strong global results and an AI-driven earnings upgrade cycle, though the street is divided.",
+      "sources": [
+        {
+          "title": "How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORVpXdlp4SW1vQUtrUmdxSzBGVVAyYVhZYWgzUDJoZ3ViVW5EbmVBU1J6OGNWVEFHWTBoLWNfRGFzVTZnQURzZTY4cXEtb0tDcGRsUzlRVHFVRjd1SUNidlhKcWd1OHktMng4YjY4M0p2T19JZFJfNElmVjlka1ZhTmRZbU5panJwUzROcFVJZV9sR0FlYVpIZlFrUDlhN1B4UFM4Vmppb05qQVpaM2pYbnB2dGpyaFQ0M3U0MWlUT05SVWdOeTlCcmx2eU04OFRoVWVnVE1haHBGMTBZVDZNSnM4bHB6TFNxZ216T1I2OTU?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-10-19"
+        },
+        {
+          "title": "HCLTech jumps over 7%, TCS up 5%: Why are IT stocks rallying",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3VYdUFVeGdwZXNZY2d4WFQ0ZWpKWEJ4MVlJNjk1a2lJRUVSZFQwUVZDVk1YbTZFc2tpQkdMOTA0S2JCbFJXZkpzQVlxelQzMTB0SVp0Z0xmTXBhbkF5NWpHRkRXM2RiTmxLRDBUaXV5ZElBTU84VnM2VzJSYnRpS0ZlNl94b0ZGenNLQ195ZUZmUjNUaHZDR3RuU0ZOQzQ1RnZENWQ2V0ZXODI4cjdsdG1xdnVIUGhBd19JVXpBandDTEZrU3Y3Yjh6elZGaUJTRFpENk5zWUpEQdIB3wFBVV95cUxNRFJxMWRqTGdZLXQ2YURUZUpGRkVjUkFoY0lJWWxIdHlWSDVjS2kteTBodVpQdmd2OV92RWZTQnZWelU1RFVwVjlOZ3BQMW1nY1QwS2xHYlJtdlJvRGJPbHVYenNEaTZTLS0zaDM0N3ZaUFZMQ3RobTJGczJtTE5Namp4aEpvQmFPN2dwdmg0S3dZTkZYVldKLVZ1ZVNyY2ZOWUtKTllmTXV1aEd2VVlMYmE1RmM4NjBUZU0zYm96MUNOa1dCbXlORGpwZGZ6Mm94eFRwQWdzbjNPU3ppZUJz?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-10-13"
+        },
+        {
+          "title": "Accenture's Growth Beat Sparks Rally, But Street Divided On Indian IT's Fortunes: Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2I5cURaOTVNaDJZVDd1UkQzc0NEdDlIbmhLUUVNbVpucjVtM1BOMVo2OXQ1dlQxa05lWXlkOFlJRmVjZWpMbmpJSHh4a2FITlJ1cGxaNS0tdDBzR3M4Rm9LMEJKeTliYklGTlVYcVVnbkk1U0Q4YzktdlE3Nm5ISU0yLTItSk42U3FaX0k3NDJXRHVzaktXZVhwejBSckdQeTNJZXY1UzR3M085SnhqemJVY3dLd3h3V1l6VnFaRDcyTzlOamh2Q3g1cGwxbGNlanNBWk1kYmxPUmJwbFV2TnVlb09GYkg4bEHSAfIBQVVfeXFMT1FBUG85eHphN1lKY1JZcVIyVlBIUU5RVEpvZjMydzJJbGJxMU8yaW1xZkhnMXhNSWlYaXNQc1JLS19UUWstaXJobFJfLVZ1bFhpX0lDVGhRTWhPWFN4QUtMMlZyZG14WkhnUklQSlFvMXoxbW50WVc2OTRZdWgwRVNjY0V5SktDU1F3RXJMcC1SNVdxR3pRM01fa1cydzFqckc5NVZ6THU5U0Y4VEV3dVVsNTBYY25lUnJqeGppeWIyT19fNE5TTW02Vm8zSUZQOGE0VlBvd0pPNmYzcVd2M3Fab2tqQkRvc2l6VVJzeU1LYWc?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-10-05"
+        },
+        {
+          "title": "UBS Indian stock market outlook - AI boom sparks earnings rally",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13R05fMWNydkpzVy1zd29hM0JUeHNCVXNhYl80Z2JmRkZSNVBmWW9BTDJSOGN5MW1WSmQwcjdxTk1UQW0zdmRyY0FHWDVMR1pvOC1fNW9rX0M4eW9NdUdkdUdnV3pXcUowRmpJMlRHdExINmlzdjJibA?oc=5",
+          "publisher": "Alice Blue",
+          "published_at": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "name": "Financial Services",
+      "outlook": "positive",
+      "score": 68.0,
+      "rationale": "Large private and public banks are tipped ahead of Q2 results; Macquarie is bullish on exchange businesses.",
+      "sources": [
+        {
+          "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXR5dHMzdWxSTFZsLURrTlVYYUo0UFV4Rk0tWWVQVXJBaUJhWDdlUERvUmRJTy1tRWdPa0o1dVRHWmYtYWJBc0RCb0prZV9iS1plTWZyU1BtVmFCWGN2cHRIQzBkcExBRW1vYmNfRW50a2JSWVY4LUlMYVZrek1kNnUyZW1WTGhNazdpVHY4UmdQcUtjbUdMT2lDTEJtRVRlcmpVYXJWb1pNR2N3SmVzdHRna0p5RXFSN29WUkFtU2o3VkJNNjVGdnROUjVuVWVxSHE1OVZDdUVyNjVKc3piMDVSLVBUcFRzREx0VnBXUEZUYkFLa3Vqa09oYWxVLTVfTXfSAYcCQVVfeXFMTzBGalJmV0N2ZDZnRHNCZW0xdUY3aU9QZm5sWkJfNDNTRS1MZmVwODdyd0dkSHFTcFYtSDA1aFlMZk40Q0RDVVpCTlBVbkdlOVBOcHg0QkJQcVItR2t6eTFRY3hXX0hRenNMZ2g1MzJkV1FtUTJUb1FTSE4xS25yYWd5WnJGWjR4ZzVBX29VdGs2U3hmN1ctcVQ2Ykp1eEhJaTlpQ18yaWkwWTZ3VDBYd0FXOWhNcTFBZmZpWXRTMU11ejdyU0JVR1dyUDhITzB2ek90ZDBVTDRqSlBzVHE5YnZOalRGek5sdjcyRmJNRXNrQURkNjE5bmllVmU3UW9rU3JuU05MNkE?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-10-15"
+        },
+        {
+          "title": "Stock Picks Today: ICICI Bank, Hindalco, Godrej Consumer, DMart, IndiGo And More On Brokerages' Radar",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2NGX1F3dGRfYWR2b1NxOFhFRWVWcDhzRXV0OEc5X3ZraWMxNm9NWFJMeUtCb2U2VXFXZXAtTmo2X1gta2l4X1B3Yk8wY0tVQndacXlONHNmeEV6SXNHN2IxLUNnWkYyeEZkOV83S0tPb0h2Q0o2dlhqWXBEazAyZU5BcEFvRXJzYWt3X1V0alo5NllJbmxURWdKYlFYeDBpWG1PYmh5VGdWcnNIYkdXSm4wNUIyQVRERkxFZkJMcTN6YkhfMzVTUWhFRTBrV2VpODZTZml30gHeAUFVX3lxTE9RUE1NVEd1QktFVm50V0FMdUhYZmhoekd0eTVHVk9ORktqbld5ZnluNzVsNUJuTmtxODY1YjROMTVTellFSnk5U3A2bFY2bU0weFo1LWlnekJCS3RhTkFqT21JLThxaHo3WlowWjFfOTZTRlF1YVloUnprcFBCY1Q0RkMwdDB2R2FtLW5OWXl6Vy1PWXU4OFBReFZCaFNVdlN2anlvTkMxUzRpMTlfcDNjaEFBOTcxZVB1bDJQbFh2SmVSWXVuejVDZlN1QjltSFhKOXduM1pPYXd3NDdRZw?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-04-07"
+        },
+        {
+          "title": "NSE IPO: Macquarie starts coverage with Outperform, sees NSE as ‘The Dominator’; bullish on BSE, MCX...",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQejEwTXZqR3RmLUxKYm9XUWJvcnRkQUl0aDh4S0lUdjlNZ0ktcHh1cEg5Z2RKQkh2V2tSRlFjdTFCdHlENmNQTWQ1Rl90MkhBc3FvYlZhYjRtX1ExM3ItaUFpTVBLZEctUVFLTXRRelhxbjRya0tjSHhHYUtlOU9nSTFzTjNfNXRWMjZJNTBGWHgwRDRFMFFsQUNWZFRfMW5MQVZ4cEMtaHg4ay1vMnk3UWRBMzlneE5Tb3NvTlJvaGgzWnBOZGQxSDdpMk05ekNxTDFFdk4xUTZ0dTJkZ3RSQ3lEOTgzc1I5bzdsTDkwelRXODNabnfSAfsBQVVfeXFMUF94dXhtMk9GLXowUklGV2ptaUFqQXFCNkpfNFpQNE9YSkREUTFmY0xtR3pmbmNyMnM1OEk2Y3BBWHNpbHlNbjlvclZwSFpyQTh4bl9MRVMwdjUtV0ZlUmRnUnJCdDRqTVFOX2pPbjExTURlZVFIajE0c2FZSkhWRTlBV0I1WENQRkpJWFFoWlhHaUJoOFMwRzF5TmVlWEF3aHNFbjgyVU9TY190MDhVNnk3TEwzdDZzVVpFVG1yUjZURkl6UFdzRzdzb3pfYk03dEppZXdxeU42Nzh0NFZDTEZuOFY3NXo1NHlUNnZHeEFvUEQ0dDliczlFU2M?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-09-24"
+        },
+        {
+          "title": "BSE 'The Challenger': Macquarie Initiates Coverage With 'Outperform' Amid NSE Listing — Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNREtpNUoxakpaM09SVUdvQVl4bi1fUnd2LTN4bjVENmlHSGp3QUtZMS1zaXBSaEN1Mk9heC1wWE9KNVlLUmpyTFBjcGFzVUY5U3VNNm1YQTJaWFRWc0hPeWJkMHMtZUxBTFhVbW54bjFOODBTX0NlZWxBd0hwNWZEaGtIRXJkN2xpS0VaUW5wRkRfVFpIcXNBbHZQaVpNaEVUM3I5YncwVGJJYmZDUlNzMUJXSlVrRWxpRGl4bEVoei16V2lhMldRbDRuNzEtTHduSUpva1NUTkFNd9IB4gFBVV95cUxNSTdTSFN3c0tqQ3JjRG5WVXZMSVUzQ1JaYUhKSFhzbDZQajRLWWNOLVNIbXh0Z1dQV0d2ajhkZTVSTldFMURCbnRlQmFqaldzUHd1Q3gyb0VwdzRpYjJCaHVUMEg4bm94RW1aWEdsbGVxSzg2NWNFWUxRcVF1U1lTZ0xVRjFKQ1pqenRxdWpwNm9ZaEpLcDNBRF9hUS1TZ0RnenJxOC01cUUtT0xVeEE0cDZ3OVB3UklXVFk3UXRRNGhLMHoxUWpOcWkyeTFhR0JwQTlXRElSbjc4SmVBUDRFLVR3?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "name": "Oil Gas & Consumable Fuels",
+      "outlook": "positive",
+      "score": 66.0,
+      "rationale": "Brokerages see sizeable upside in Reliance on AI, a Jio listing and new businesses.",
+      "sources": [
+        {
+          "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new...",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTDhvSGF2ME5SQ2JDeDBHM0gwc3JiZlNlUHJEMkpfaEFNRFkzQjhkSEM3a3ZXUEVYQ1BDRE9ETmU5TVFlZUNFU195VEhON0w0N2FOS3VadVBldGxFOFdiZW5iVlhPUzY1VDQwaHpfMUtVQlh6OUhxS2ZMMEljWjFsSG5CamlZM2N6ZFEtSTZWNTQ0TnB1UmUtS1p2MDRpWDlkX3FNWFMzWU9zWlpCTTRydjU1NVpUM1ZZdWFqWEVSVHVZUXFDX1FNaGFacHpEYzhuUjdnOF96OHZKMEhTcEdXRWVHSVlZNEdVa2I0Z0JPQW03dFJwRHdiMUl6RUFycG45ZEHSAYcCQVVfeXFMUDdnLWdJckZIX0xkcDYtT1JyRGZYNVBndUNibkRka1FXQk5kajJEWXBvZXRON1pCYjdHY0E4ajk4M3RaWDlFZ2dVckkyZ3I4ZDVZSXlPeTBKR28yczg2Z0cwV2NXbkpZNjlweER3dUc2WWN6cHQ0bkZVOFpNYjBpY25uWHVuNDIxNVg4Nm95OEt0SkFYN0dIdHhCVWxRUHJQOFdFaHB4NXVVV0JVUWxEVHZ6c2hJOEh2TzlCSHo4N1ZXY3FWb3BPR0lDUmRuWHNpc1pwVERFZ09pU1lsX0RxQ0Y0c0RNX252SzlHSkotNmpwY1d1SVBXTmhnODYzeEFzUG9PSzc4V2c?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "name": "Automobile and Auto Components",
+      "outlook": "positive",
+      "score": 66.0,
+      "rationale": "Auto volumes and industrial capex are lifting auto and component makers; commercial vehicles and Maruti are on brokerage lists.",
+      "sources": [
+        {
+          "title": "Stocks to buy: 3 stocks to beat the market in 2026: YES Securities lists Entero, Maruti and Lupin as June stock picks",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQjVTWVBGUjV4bWs4MTVXRHgteTAzNnlTMHpZa213R2dRZ09FTWc2QW9oSDV0MEtrRXBqcVlHXzdSZEk2X1Ytd2hVRVNKVF9peUtHUjdKNGxpcllpYVJ1VUFreVNSQjFxM1pIbHdpWEJEVldhZUJ2RHBNaTh3UlhKaFV2U01ldjZCWXJsdWZaUm1GUUNDMnhHSnJaV1VvN0FlaVRoaEo3QzY4WVdMNlFSZTJRZS05Vm1RN1F4UXBQNEkybFYxUmp4WHZNclRORHV4RktGNktMYlVWOVlHOUJiQkVaXy14aUVPR0NSRW1LRUtXMXhUcEswN2g1S2ttMkpuZEZxd2FtSWY5SmpvbUpaa1VR0gGXAkFVX3lxTE9WZXJKaEp3UElIVWEzTTZIRXRPUExpaDdHSHVEWEdiZUxyUWZnLVNBeEctMktqOXB5ZTdLd1JFc3dPa1FRQVM1RVlXS1Fnb2NvX0t5WDJUZ0o4NldYX3gyUnNObFZzcUNMQVVEMl85UVNEM3RyTWhGNWg0cTlFb05WWnZWNnhVLUt6bW1GTDdxWFlPX3BKbk4zNFZQdGpKN3NnczUyR0NBZ05SYjc1VXg4RXBIaWhYblkwTEd4aHQ3VEg2VmdmU0JleDhCbHhqaFJJTXJFZVRORWpnLU1mT05kR1hrZ2RGc0Z5NnZ1NzFVZERPSkYyWnJQTmIxUHNiZUxSaDN3Y1JPTXpYTUQ4WXJiVFc5RkQ1bw?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-06-13"
+        },
+        {
+          "title": "3 Bearings Stocks in India Riding the Industrial Capex and Auto Volume Boom in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Wjk3Ql9FTmc2STZuSjlsZHFsNE4wdHF5bnJUcXNaX1JVT1lGaHdxaFU0SGsxOXl4Q3RydUZvbXFUX0EwOXVTc2h6Y2NCeHlLN3VVTGY3bEQ2bFhQWjR2Ug?oc=5",
+          "publisher": "Univest",
+          "published_at": "2026-08-21"
+        },
+        {
+          "title": "Ashok Leyland, BEL, 1 more defence stock set for next upmove: Bajaj Broking",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcjAxcUJNaXFyNk82b2ZPYnRXRzNNNkZrN2o0Z3kzRTRmZ3FBTVhHWGdCMGlDdmZhSU5ZeDZWTzRxNDFvVGxNLTk2UmFnUTkyUFNYYV9sckJyQXNhS0tBbEFJR2RicjRuTkxDQ1R4ZGlZcF9wWHA1R2I0RGplRlIta2QxWkh3X212cC1EaUVtQV9hMUpPb21HOWtEVU1YLVE2czM3UDRSN0JyVWpwdEwzVGEybFlrdHFKdW1OdTZDWE9GLXFQaDhvcnNpaFByVzBLM3cwVWdlWGRYckFaX0pmY0JSUEZzSFhiVE12X29SWkFMdGtr0gH6AUFVX3lxTE9aaExqNk1Tc01qdEQ2eVdoQV8xdFYzTGdJRFV4UU1MS1RfU1FPcm51eHYwYWpUTHZKSnVlVVdtaVQwNDFfN3lHbjY5S2FGblFMYUU1eGF3azgtNTI4VDIzX05QS3dXUWl3NHNZNDZBNUVmQ2MyWUVQZEV0dFpvUFR2LS14TldHSm5NcjhLNXpIRHkwZzI0VzhKaW1scDN0MW80LWp4eEpRYkRBcWNsUEhRbnA3WF9jbVFoWXkySnZIUkF4ZWp5OWFkU3hFeS1QTmNjZE5hdFVvMHVCcks2N2xxeWw3T1JHUGVjeERzUUl5eUdvbmxNcW9HUUE?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "name": "Power & Renewables",
+      "outlook": "positive",
+      "score": 65.0,
+      "rationale": "Thermal power build-out and wind equipment makers are flagged as policy beneficiaries.",
+      "sources": [
+        {
+          "title": "Thermal Power",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kSzFqWUp3cFVPN1gyMldpMEtQcjl5bUpFZUIzdk9iU1B5TFZsaTQ1VmllZ2gtSWEtdmgyUk9qaDBLUDJ6Nnl5S0ZWSzAyaTlva0RGU1Q4MFYtU010TXlXbA?oc=5",
+          "publisher": "Invest India",
+          "published_at": "2026-08-24"
+        },
+        {
+          "title": "5 Stocks to Watch: Suzlon, ICICI Bank, Wipro Alert 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVNqMUZZQnI1OU8zTWd6QXVUdDR3dHowbWMyZndFY3ZoazRoNmhaZ08yM1VuUkdEcS1yODRmMm5LNU5tbjFFUWFpN0V6Zktyc0h4TjhTMVZTZVVpWDMzTHhiUS1sa1Awelo1ZUpaWVRnaDU4blIzcTdFQjNhcGQ1aQ?oc=5",
+          "publisher": "NiftyTrader",
+          "published_at": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "name": "Consumer Discretionary",
+      "outlook": "positive",
+      "score": 62.0,
+      "rationale": "Jewellery and value retail delivered strong results; analysts debate how much of the rally remains.",
+      "sources": [
+        {
+          "title": "Jewellery stocks deliver a glittering Q1: Is the best of the rally already over?",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNV9IcnVRaGl4NjZRTWNoMUhzS2ZhXzFDZ1RrUWttZ2loWDJQbzNacU12VmhZTTJXaHFVU3BSODBBazRkUnRxNHRNaVZzTEZ5ZTZpc2xYMDNqeUtaOWllcmRMd1BpUnRHSWhocmIzMm9YLU5IQV9TbUJ3TVZpdFlZcFIyUzdhUm9XMGVwS3dzS1J3NzJoSzY2bzVmUF9DendiRFd5VmtXWFRFcnZBR0llYTB0UlV0a3ZiOU1EMVRvNkN6YjJTVFptVk1tRXg0N01wVmxweXlNOC1ZOHfSAeABQVVfeXFMTjRKaGk4UEZiREJhT1p0b3FNNVRiN0h6YU0yRWM3U2FvOUo2ZDVLamFqX0F1cnJqZG5pb3FobDNnbXlfTjFhTVV6ckV3Zkowemp6TkhRV2ZVcXNlbWZFb0xEbHRjLUtoc2MtcXJXRnBtN2JwOURVc0ptMmdhRkZCM0MwTEZDTXdIZDR6S2pjMUEzeHdBMXNlOTQ4cllaNElNU0l5Z1ZWY3E5VXRZcnhfWDNRN2hjTlo0cjJwQmZKM2NDeU9YM3loOWd6ZkZRMGtKLUg5UnBLQVJUQXhKQUpxanI?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-08-12"
+        },
+        {
+          "title": "Motilal Oswal bullish on jewellery stocks; picks Titan, Kalyan Jewellers as top bets, sees up to 34% upside",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb0t5TXhOazFMOWFySzJ3ZnZxbEwtU2FVcGl6Wl9XbU1KUVdyVmt1clV5N1ljY0F5dVBmbzBMY01kLUlvRVg3UGQxdFBya3l5S1BGNG8wVzYzSHhkWjlpZnJXQVRwZXZ3bWlCMzVUbm1VOGx2cUdud3ptZzF1VE95QTZieEx4bmRtLXR3Qm44eUduSlotSEkzTWVEbzF3ZTZ6U1lUNVo1dWdHZm5BdV9iMDl5aXlyaGJPbDlxelJHNnBkcTVTblZJYWk2Y1BZcTVNelNSVXlvbzN3dVI1Y1UzZkFoLTBGOHV4THNFcWZoQnVJb0RldEFGTjRwS2RxSjFXUzVv0gGIAkFVX3lxTE9UOWM1U3ZoTlJRWHI5WFFoVWRBbzQwcHc5WndmVzRzcU1rTzdFbVBST3dVLXFfWE5IcFlFcEl0alNwRFNad3RJZEN5MVZUc2ItbjRDS0Y5d0VwNjdQRDJQMkRsZV9nNUgyWFBkTHhZNHJybDhtTkhyQVMyVmJDdUJ4VDRnamNxTTA2V09iZkZXTlk3LUFLdXAtWDNHQk5GNUFRRE5HVHd4NXdvM1NhNTEtNndLaFNrTmxEbVZ2NWdfanBCVmVEMkcyTWhFOVh4V1RMRGVMaGF5NkJMX1VsYVVqdEgzNXhUUmR5TGZ0UFgzRlBnZWJPSGZKNUdTTnE3dG9WSk5RVW83RA?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-08-12"
+        },
+        {
+          "title": "Value fashion outperforms as analysts highlight V-Mart as top retail pick",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbXFLMGxNRG82RHJ6aS1GckdLMnQ4TUpXZjN4czI2TFJwRGduOEdNZTJUdEhIMng1M0pxcWVNSm9EaFdVb3VIRm44bVR3UkVpSHQ2dWxsdFhhWG8wMGticmdaUG1Da2NJTFlDUnR3dVFIc01SVGhTMklMWlpfTjBlWm5qcTNzVFNXd3VHYVRlcFZ3QlVTS3JaQmtVVHJPVld3T05uSXZfZ0JfYzZHdksxbGpZR3lEbFpEWlh5RmNuaXhIZGQtYm1IcnRadjdzd2x6dmxCRXlESHRFNEV3aEdMOUctMGJ1NlhFdlJoVzA5WU1NRlZKVzdBZU53NXZiaE1vanZocUwtOXlXRUliekJjbzdCdTl5THNVVXlR0gGgAkFVX3lxTE9Oeno1WjNuUDZUa3k2bXRyN3AyV3RnTXNTa21IMmc1UHgtYW5wWFRuTnVSYUZ1WmZiU295UkJISVo2Vkl6U2xPTFVCMW5uNURQVndSYUk5ZlN3Xzh5aFpuNjFfMUZmV2otTHdBTmJTYktsTkszc195RmliWXFHdGJ2bjdZMjUxMHBUYjlSUzVDRXVrRFdyU3BVZVhISHFjY1NjcnRUQkY1RU9ZUzZFLWs0cVlkUHhwU0FtaHZnUWZvVGZDV3duYUVNeXZWblhJdF8wanlENFNNMjVwcXhfT1lCQkE5ZVBiSEVoczViRDJtNFVselZqaTJqT19ESVcxQ0lKeF9RMmxYcUZEbVJScHZLZjRjanM4N2lUWkNwLVNJRg?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2025-11-26"
+        }
+      ]
+    },
+    {
+      "name": "Fast Moving Consumer Goods",
+      "outlook": "neutral",
+      "score": 55.0,
+      "rationale": "The FMCG index was a top performer on a recent day, but the case rests on short-term moves.",
+      "sources": [
+        {
+          "title": "Nifty FMCG index Rises 1.68%: Top Performing Sector , Why Today?",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92ZjVpeE1pN3N5S3h6YTQ3ZzVsdjFtd0Jzczk5Y3pRWEFIY0RIZXpsZkxtYzJ0NVFyak9zLVpVWmZIMWlRQ0Z4anRnM0xYcTFjMTlfZjBpT29LazJZZlRjaGQySVhadkVMVVFXZUp3?oc=5",
+          "publisher": "Univest",
+          "published_at": "2026-06-10"
+        },
+        {
+          "title": "Stock Picks Today: ICICI Bank, Hindalco, Godrej Consumer, DMart, IndiGo And More On Brokerages' Radar",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2NGX1F3dGRfYWR2b1NxOFhFRWVWcDhzRXV0OEc5X3ZraWMxNm9NWFJMeUtCb2U2VXFXZXAtTmo2X1gta2l4X1B3Yk8wY0tVQndacXlONHNmeEV6SXNHN2IxLUNnWkYyeEZkOV83S0tPb0h2Q0o2dlhqWXBEazAyZU5BcEFvRXJzYWt3X1V0alo5NllJbmxURWdKYlFYeDBpWG1PYmh5VGdWcnNIYkdXSm4wNUIyQVRERkxFZkJMcTN6YkhfMzVTUWhFRTBrV2VpODZTZml30gHeAUFVX3lxTE9RUE1NVEd1QktFVm50V0FMdUhYZmhoekd0eTVHVk9ORktqbld5ZnluNzVsNUJuTmtxODY1YjROMTVTellFSnk5U3A2bFY2bU0weFo1LWlnekJCS3RhTkFqT21JLThxaHo3WlowWjFfOTZTRlF1YVloUnprcFBCY1Q0RkMwdDB2R2FtLW5OWXl6Vy1PWXU4OFBReFZCaFNVdlN2anlvTkMxUzRpMTlfcDNjaEFBOTcxZVB1bDJQbFh2SmVSWXVuejVDZlN1QjltSFhKOXduM1pPYXd3NDdRZw?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "name": "Metals & Mining",
+      "outlook": "neutral",
+      "score": 52.0,
+      "rationale": "Steel self-reliance policy is supportive; zinc capacity expansion is positive but stock moves are mixed.",
+      "sources": [
+        {
+          "title": "India’s Steel Sector Advances Towards Self-Reliance",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52eVhOYTFFSHdzTzZkajZrS1JTZHZaejI4aHZlZ1FtbFVWZTNnbVpNZDZySXRUUHJDaWk5bHdlYUtXUkRpVE9SR1BZWDFUS0F2SDJNSmoxRnAyWWFrYldjejh1WGZhd3VMOU5sSWo3NkhqR1E1VWVOTmZB?oc=5",
+          "publisher": "Press Information Bureau",
+          "published_at": "2026-05-05"
+        },
+        {
+          "title": "Vedanta shares edge lower; South Africa zinc capacity doubles amid 3 MT ambition",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRHVneWM3Q292bjZlT1JsUFl5elZVZUlqNVNYSW8ySzF0TXBONVRoYmdrN1JjUV9IY29NSlZiU2xacUE5Mk5lTElNaEJab1pJS3Z3akEtY0E2RGpKenFxNGpyakp1QXpPYnRDaWZqLUhpRXBxb1ZRQU5PYTdEcVJsNXdYakViVTEwTFRhRjNxVjVqcW8xUWVCQzFkRUZKSkFZbTBySVJjUkxaSldMSjBPenRzTWtadmxJTlZrUnJaNk4wb1hfbTkzTHVhYUFmcWZ3Z2VFUWgxTFVaNm1zbzVfb095TWtlNzhLeHlNUGtNYzk3WjA?oc=5",
+          "publisher": "Upstox",
+          "published_at": "2026-10-19"
+        }
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Limited",
+      "sector": "Information Technology",
+      "score": 75.2,
+      "thesis": "Jumped over 7% as IT stocks rallied.",
+      "sources": [
+        {
+          "title": "HCLTech jumps over 7%, TCS up 5%: Why are IT stocks rallying",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3VYdUFVeGdwZXNZY2d4WFQ0ZWpKWEJ4MVlJNjk1a2lJRUVSZFQwUVZDVk1YbTZFc2tpQkdMOTA0S2JCbFJXZkpzQVlxelQzMTB0SVp0Z0xmTXBhbkF5NWpHRkRXM2RiTmxLRDBUaXV5ZElBTU84VnM2VzJSYnRpS0ZlNl94b0ZGenNLQ195ZUZmUjNUaHZDR3RuU0ZOQzQ1RnZENWQ2V0ZXODI4cjdsdG1xdnVIUGhBd19JVXpBandDTEZrU3Y3Yjh6elZGaUJTRFpENk5zWUpEQdIB3wFBVV95cUxNRFJxMWRqTGdZLXQ2YURUZUpGRkVjUkFoY0lJWWxIdHlWSDVjS2kteTBodVpQdmd2OV92RWZTQnZWelU1RFVwVjlOZ3BQMW1nY1QwS2xHYlJtdlJvRGJPbHVYenNEaTZTLS0zaDM0N3ZaUFZMQ3RobTJGczJtTE5Namp4aEpvQmFPN2dwdmg0S3dZTkZYVldKLVZ1ZVNyY2ZOWUtKTllmTXV1aEd2VVlMYmE1RmM4NjBUZU0zYm96MUNOa1dCbXlORGpwZGZ6Mm94eFRwQWdzbjNPU3ppZUJz?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-10-13"
+        },
+        {
+          "title": "Accenture's Growth Beat Sparks Rally, But Street Divided On Indian IT's Fortunes: Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2I5cURaOTVNaDJZVDd1UkQzc0NEdDlIbmhLUUVNbVpucjVtM1BOMVo2OXQ1dlQxa05lWXlkOFlJRmVjZWpMbmpJSHh4a2FITlJ1cGxaNS0tdDBzR3M4Rm9LMEJKeTliYklGTlVYcVVnbkk1U0Q4YzktdlE3Nm5ISU0yLTItSk42U3FaX0k3NDJXRHVzaktXZVhwejBSckdQeTNJZXY1UzR3M085SnhqemJVY3dLd3h3V1l6VnFaRDcyTzlOamh2Q3g1cGwxbGNlanNBWk1kYmxPUmJwbFV2TnVlb09GYkg4bEHSAfIBQVVfeXFMT1FBUG85eHphN1lKY1JZcVIyVlBIUU5RVEpvZjMydzJJbGJxMU8yaW1xZkhnMXhNSWlYaXNQc1JLS19UUWstaXJobFJfLVZ1bFhpX0lDVGhRTWhPWFN4QUtMMlZyZG14WkhnUklQSlFvMXoxbW50WVc2OTRZdWgwRVNjY0V5SktDU1F3RXJMcC1SNVdxR3pRM01fa1cydzFqckc5NVZ6THU5U0Y4VEV3dVVsNTBYY25lUnJqeGppeWIyT19fNE5TTW02Vm8zSUZQOGE0VlBvd0pPNmYzcVd2M3Fab2tqQkRvc2l6VVJzeU1LYWc?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-10-05"
+        }
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bharat Electronics Limited",
+      "sector": "Capital Goods",
+      "score": 74.8,
+      "thesis": "Named by Bajaj Broking among defence stocks set for the next upmove.",
+      "sources": [
+        {
+          "title": "Ashok Leyland, BEL, 1 more defence stock set for next upmove: Bajaj Broking",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcjAxcUJNaXFyNk82b2ZPYnRXRzNNNkZrN2o0Z3kzRTRmZ3FBTVhHWGdCMGlDdmZhSU5ZeDZWTzRxNDFvVGxNLTk2UmFnUTkyUFNYYV9sckJyQXNhS0tBbEFJR2RicjRuTkxDQ1R4ZGlZcF9wWHA1R2I0RGplRlIta2QxWkh3X212cC1EaUVtQV9hMUpPb21HOWtEVU1YLVE2czM3UDRSN0JyVWpwdEwzVGEybFlrdHFKdW1OdTZDWE9GLXFQaDhvcnNpaFByVzBLM3cwVWdlWGRYckFaX0pmY0JSUEZzSFhiVE12X29SWkFMdGtr0gH6AUFVX3lxTE9aaExqNk1Tc01qdEQ2eVdoQV8xdFYzTGdJRFV4UU1MS1RfU1FPcm51eHYwYWpUTHZKSnVlVVdtaVQwNDFfN3lHbjY5S2FGblFMYUU1eGF3azgtNTI4VDIzX05QS3dXUWl3NHNZNDZBNUVmQ2MyWUVQZEV0dFpvUFR2LS14TldHSm5NcjhLNXpIRHkwZzI0VzhKaW1scDN0MW80LWp4eEpRYkRBcWNsUEhRbnA3WF9jbVFoWXkySnZIUkF4ZWp5OWFkU3hFeS1QTmNjZE5hdFVvMHVCcks2N2xxeWw3T1JHUGVjeERzUUl5eUdvbmxNcW9HUUE?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "symbol": "LUPIN",
+      "name": "Lupin Limited",
+      "sector": "Healthcare",
+      "score": 74.4,
+      "thesis": "A June stock pick of YES Securities in a sector with Bernstein coverage.",
+      "sources": [
+        {
+          "title": "Stocks to buy: 3 stocks to beat the market in 2026: YES Securities lists Entero, Maruti and Lupin as June stock picks",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQjVTWVBGUjV4bWs4MTVXRHgteTAzNnlTMHpZa213R2dRZ09FTWc2QW9oSDV0MEtrRXBqcVlHXzdSZEk2X1Ytd2hVRVNKVF9peUtHUjdKNGxpcllpYVJ1VUFreVNSQjFxM1pIbHdpWEJEVldhZUJ2RHBNaTh3UlhKaFV2U01ldjZCWXJsdWZaUm1GUUNDMnhHSnJaV1VvN0FlaVRoaEo3QzY4WVdMNlFSZTJRZS05Vm1RN1F4UXBQNEkybFYxUmp4WHZNclRORHV4RktGNktMYlVWOVlHOUJiQkVaXy14aUVPR0NSRW1LRUtXMXhUcEswN2g1S2ttMkpuZEZxd2FtSWY5SmpvbUpaa1VR0gGXAkFVX3lxTE9WZXJKaEp3UElIVWEzTTZIRXRPUExpaDdHSHVEWEdiZUxyUWZnLVNBeEctMktqOXB5ZTdLd1JFc3dPa1FRQVM1RVlXS1Fnb2NvX0t5WDJUZ0o4NldYX3gyUnNObFZzcUNMQVVEMl85UVNEM3RyTWhGNWg0cTlFb05WWnZWNnhVLUt6bW1GTDdxWFlPX3BKbk4zNFZQdGpKN3NnczUyR0NBZ05SYjc1VXg4RXBIaWhYblkwTEd4aHQ3VEg2VmdmU0JleDhCbHhqaFJJTXJFZVRORWpnLU1mT05kR1hrZ2RGc0Z5NnZ1NzFVZERPSkYyWnJQTmIxUHNiZUxSaDN3Y1JPTXpYTUQ4WXJiVFc5RkQ1bw?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-06-13"
+        },
+        {
+          "title": "Bernstein initiates coverage on 6 pharma stocks, cites 3 major tailwinds for healthcare sector",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYzd4M2hNdlk1M2RzYmJZa3VkeWdLZHVRSV84SUlMa0l3d2ZWaEF2OGtpUjJfNkpCT0ZkMW5PaUN4SmJIMi15TUFpQ3daX21sV2VVVGJfSHp3VU4tZlBhYzNMaWsyWDFJY2V1c0dNelpCaWNhTzU1ZDQxYVY1bWtObW51U3dIVWlFblB1WklUdFRmZFVOWWFaRl9LVl93Y09FUmRXeUQzVnVsQzY2QTZvbTRUUEMyRzBpRHhBLVFUMWtodkJZcUx1a2xOUno3WWVkYnU0R3ppdC1Vb09hUTJENzhmckxlenAtWGpvNllHdWJEQnpZYm5aSm9DONIBgAJBVV95cUxPaV8zRFBuaWczRVJsLUtUVnVhYkN4RjBHaXNidHcwQ2ZuSFIyRlBWRFVLUS0zVjd5a1JCdVBYaU15YWhSYjdhTG1adHl4dzVfQ0ZEeF9aX1lsV3dhbVIzR1NkNFJHT3JES20xVV9Bcko0LXFaTmRuRzZYM3h1VmNmSzU1LUxoRXhiTnNUVERSWGZfWUx4R0lUckd1YkdTY1pPSEV0aUNCbWNLQ3AzbWc3YTZRUHJmcXg2TTIyZWVlbkRaem1LOTlPU3ctb004UlFjVzBHNUNtU3I1UWdQYkJnd21FclRTeEZNQWxHUlotWUVzY0NzMkxuam5fdENKdDdK?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-05-22"
+        }
+      ]
+    },
+    {
+      "symbol": "SYRMA",
+      "name": "Syrma SGS Technology Limited",
+      "sector": "Electronics Manufacturing & Semiconductors",
+      "score": 73.6,
+      "thesis": "Top pick of HDFC Securities in Indian EMS.",
+      "sources": [
+        {
+          "title": "HDFC Sec sees multi-year growth in India EMS; Syrma SGS top pick: Check why",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0VKd2FaeG02OWlPNmxyV0JfUlIwVGVyOFUzZ3Jqc0FibmFyeFBGUlZneGlEdHN1X0s5RE1QazYxQzV1SnQ2OGRieTlxTW5hYWxEb3R5TXZnbE1LeW5NX2F2dzJ0ZVljclFnc1ZfbDM1amNYRVEzaUpGMUpGMmVHQ2lpamdRdVBFZTQ2NlN1cHRwM2QzUUs2WHNEY0RRMWpGcWI2dVFRTGNQTzd5Y1V0N0lieG54QW1KUmU0Y3RxUmhaanJvdkhEUWtTdjNzWTZfcF9reHQySdIB3AFBVV95cUxQYW9QTEFZYy11eW5fQ0NsVjhxcEtDYU84M3VVem5aa2Y1allnWkhWX0htY1pHT0pVMkwtVXd2Y29lZVhTN0hsRVFoXzlyRUtTRjdzMWdPSlVLb1VueWgzWGxBYlhkeDdCbnVkZExZYnhKZUdPRkJQVTBsM1E2Z3NRRUhOTlNHaGxna0ZiNzhZQ29OWXlxekx3cEl4Z0g1eVNpLVdRVklNSVg5akFVNkVpeTR4S2pCWDQyY2dwTmQ0WS16cmlxU1VZTjk0X09nWlpFR0xwa3R4Y09GYkI5?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "name": "Tata Consultancy Services Limited",
+      "sector": "Information Technology",
+      "score": 73.2,
+      "thesis": "Rose 5% as IT stocks rallied on global read-through.",
+      "sources": [
+        {
+          "title": "HCLTech jumps over 7%, TCS up 5%: Why are IT stocks rallying",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3VYdUFVeGdwZXNZY2d4WFQ0ZWpKWEJ4MVlJNjk1a2lJRUVSZFQwUVZDVk1YbTZFc2tpQkdMOTA0S2JCbFJXZkpzQVlxelQzMTB0SVp0Z0xmTXBhbkF5NWpHRkRXM2RiTmxLRDBUaXV5ZElBTU84VnM2VzJSYnRpS0ZlNl94b0ZGenNLQ195ZUZmUjNUaHZDR3RuU0ZOQzQ1RnZENWQ2V0ZXODI4cjdsdG1xdnVIUGhBd19JVXpBandDTEZrU3Y3Yjh6elZGaUJTRFpENk5zWUpEQdIB3wFBVV95cUxNRFJxMWRqTGdZLXQ2YURUZUpGRkVjUkFoY0lJWWxIdHlWSDVjS2kteTBodVpQdmd2OV92RWZTQnZWelU1RFVwVjlOZ3BQMW1nY1QwS2xHYlJtdlJvRGJPbHVYenNEaTZTLS0zaDM0N3ZaUFZMQ3RobTJGczJtTE5Namp4aEpvQmFPN2dwdmg0S3dZTkZYVldKLVZ1ZVNyY2ZOWUtKTllmTXV1aEd2VVlMYmE1RmM4NjBUZU0zYm96MUNOa1dCbXlORGpwZGZ6Mm94eFRwQWdzbjNPU3ppZUJz?oc=5",
+          "publisher": "The Times of India",
+          "published_at": "2026-10-13"
+        },
+        {
+          "title": "Accenture's Growth Beat Sparks Rally, But Street Divided On Indian IT's Fortunes: Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2I5cURaOTVNaDJZVDd1UkQzc0NEdDlIbmhLUUVNbVpucjVtM1BOMVo2OXQ1dlQxa05lWXlkOFlJRmVjZWpMbmpJSHh4a2FITlJ1cGxaNS0tdDBzR3M4Rm9LMEJKeTliYklGTlVYcVVnbkk1U0Q4YzktdlE3Nm5ISU0yLTItSk42U3FaX0k3NDJXRHVzaktXZVhwejBSckdQeTNJZXY1UzR3M085SnhqemJVY3dLd3h3V1l6VnFaRDcyTzlOamh2Q3g1cGwxbGNlanNBWk1kYmxPUmJwbFV2TnVlb09GYkg4bEHSAfIBQVVfeXFMT1FBUG85eHphN1lKY1JZcVIyVlBIUU5RVEpvZjMydzJJbGJxMU8yaW1xZkhnMXhNSWlYaXNQc1JLS19UUWstaXJobFJfLVZ1bFhpX0lDVGhRTWhPWFN4QUtMMlZyZG14WkhnUklQSlFvMXoxbW50WVc2OTRZdWgwRVNjY0V5SktDU1F3RXJMcC1SNVdxR3pRM01fa1cydzFqckc5NVZ6THU5U0Y4VEV3dVVsNTBYY25lUnJqeGppeWIyT19fNE5TTW02Vm8zSUZQOGE0VlBvd0pPNmYzcVd2M3Fab2tqQkRvc2l6VVJzeU1LYWc?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-10-05"
+        }
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "name": "Tech Mahindra Limited",
+      "sector": "Information Technology",
+      "score": 71.2,
+      "thesis": "Rallied 22% in four days.",
+      "sources": [
+        {
+          "title": "How to trade Tech Mahindra shares after 22% rally in 4 days? Technical expert weighs in",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORVpXdlp4SW1vQUtrUmdxSzBGVVAyYVhZYWgzUDJoZ3ViVW5EbmVBU1J6OGNWVEFHWTBoLWNfRGFzVTZnQURzZTY4cXEtb0tDcGRsUzlRVHFVRjd1SUNidlhKcWd1OHktMng4YjY4M0p2T19JZFJfNElmVjlka1ZhTmRZbU5panJwUzROcFVJZV9sR0FlYVpIZlFrUDlhN1B4UFM4Vmppb05qQVpaM2pYbnB2dGpyaFQ0M3U0MWlUT05SVWdOeTlCcmx2eU04OFRoVWVnVE1haHBGMTBZVDZNSnM4bHB6TFNxZ216T1I2OTU?oc=5",
+          "publisher": "The Economic Times",
+          "published_at": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "sector": "Financial Services",
+      "score": 69.6,
+      "thesis": "Among banks experts suggest ahead of Q2 results and a brokerage radar pick.",
+      "sources": [
+        {
+          "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXR5dHMzdWxSTFZsLURrTlVYYUo0UFV4Rk0tWWVQVXJBaUJhWDdlUERvUmRJTy1tRWdPa0o1dVRHWmYtYWJBc0RCb0prZV9iS1plTWZyU1BtVmFCWGN2cHRIQzBkcExBRW1vYmNfRW50a2JSWVY4LUlMYVZrek1kNnUyZW1WTGhNazdpVHY4UmdQcUtjbUdMT2lDTEJtRVRlcmpVYXJWb1pNR2N3SmVzdHRna0p5RXFSN29WUkFtU2o3VkJNNjVGdnROUjVuVWVxSHE1OVZDdUVyNjVKc3piMDVSLVBUcFRzREx0VnBXUEZUYkFLa3Vqa09oYWxVLTVfTXfSAYcCQVVfeXFMTzBGalJmV0N2ZDZnRHNCZW0xdUY3aU9QZm5sWkJfNDNTRS1MZmVwODdyd0dkSHFTcFYtSDA1aFlMZk40Q0RDVVpCTlBVbkdlOVBOcHg0QkJQcVItR2t6eTFRY3hXX0hRenNMZ2g1MzJkV1FtUTJUb1FTSE4xS25yYWd5WnJGWjR4ZzVBX29VdGs2U3hmN1ctcVQ2Ykp1eEhJaTlpQ18yaWkwWTZ3VDBYd0FXOWhNcTFBZmZpWXRTMU11ejdyU0JVR1dyUDhITzB2ek90ZDBVTDRqSlBzVHE5YnZOalRGek5sdjcyRmJNRXNrQURkNjE5bmllVmU3UW9rU3JuU05MNkE?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-10-15"
+        },
+        {
+          "title": "Stock Picks Today: ICICI Bank, Hindalco, Godrej Consumer, DMart, IndiGo And More On Brokerages' Radar",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2NGX1F3dGRfYWR2b1NxOFhFRWVWcDhzRXV0OEc5X3ZraWMxNm9NWFJMeUtCb2U2VXFXZXAtTmo2X1gta2l4X1B3Yk8wY0tVQndacXlONHNmeEV6SXNHN2IxLUNnWkYyeEZkOV83S0tPb0h2Q0o2dlhqWXBEazAyZU5BcEFvRXJzYWt3X1V0alo5NllJbmxURWdKYlFYeDBpWG1PYmh5VGdWcnNIYkdXSm4wNUIyQVRERkxFZkJMcTN6YkhfMzVTUWhFRTBrV2VpODZTZml30gHeAUFVX3lxTE9RUE1NVEd1QktFVm50V0FMdUhYZmhoekd0eTVHVk9ORktqbld5ZnluNzVsNUJuTmtxODY1YjROMTVTellFSnk5U3A2bFY2bU0weFo1LWlnekJCS3RhTkFqT21JLThxaHo3WlowWjFfOTZTRlF1YVloUnprcFBCY1Q0RkMwdDB2R2FtLW5OWXl6Vy1PWXU4OFBReFZCaFNVdlN2anlvTkMxUzRpMTlfcDNjaEFBOTcxZVB1bDJQbFh2SmVSWXVuejVDZlN1QjltSFhKOXduM1pPYXd3NDdRZw?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "name": "BSE Limited",
+      "sector": "Financial Services",
+      "score": 68.8,
+      "thesis": "Macquarie initiated coverage with an Outperform rating.",
+      "sources": [
+        {
+          "title": "NSE IPO: Macquarie starts coverage with Outperform, sees NSE as ‘The Dominator’; bullish on BSE, MCX...",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQejEwTXZqR3RmLUxKYm9XUWJvcnRkQUl0aDh4S0lUdjlNZ0ktcHh1cEg5Z2RKQkh2V2tSRlFjdTFCdHlENmNQTWQ1Rl90MkhBc3FvYlZhYjRtX1ExM3ItaUFpTVBLZEctUVFLTXRRelhxbjRya0tjSHhHYUtlOU9nSTFzTjNfNXRWMjZJNTBGWHgwRDRFMFFsQUNWZFRfMW5MQVZ4cEMtaHg4ay1vMnk3UWRBMzlneE5Tb3NvTlJvaGgzWnBOZGQxSDdpMk05ekNxTDFFdk4xUTZ0dTJkZ3RSQ3lEOTgzc1I5bzdsTDkwelRXODNabnfSAfsBQVVfeXFMUF94dXhtMk9GLXowUklGV2ptaUFqQXFCNkpfNFpQNE9YSkREUTFmY0xtR3pmbmNyMnM1OEk2Y3BBWHNpbHlNbjlvclZwSFpyQTh4bl9MRVMwdjUtV0ZlUmRnUnJCdDRqTVFOX2pPbjExTURlZVFIajE0c2FZSkhWRTlBV0I1WENQRkpJWFFoWlhHaUJoOFMwRzF5TmVlWEF3aHNFbjgyVU9TY190MDhVNnk3TEwzdDZzVVpFVG1yUjZURkl6UFdzRzdzb3pfYk03dEppZXdxeU42Nzh0NFZDTEZuOFY3NXo1NHlUNnZHeEFvUEQ0dDliczlFU2M?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-09-24"
+        },
+        {
+          "title": "BSE 'The Challenger': Macquarie Initiates Coverage With 'Outperform' Amid NSE Listing — Here's Why",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNREtpNUoxakpaM09SVUdvQVl4bi1fUnd2LTN4bjVENmlHSGp3QUtZMS1zaXBSaEN1Mk9heC1wWE9KNVlLUmpyTFBjcGFzVUY5U3VNNm1YQTJaWFRWc0hPeWJkMHMtZUxBTFhVbW54bjFOODBTX0NlZWxBd0hwNWZEaGtIRXJkN2xpS0VaUW5wRkRfVFpIcXNBbHZQaVpNaEVUM3I5YncwVGJJYmZDUlNzMUJXSlVrRWxpRGl4bEVoei16V2lhMldRbDRuNzEtTHduSUpva1NUTkFNd9IB4gFBVV95cUxNSTdTSFN3c0tqQ3JjRG5WVXZMSVUzQ1JaYUhKSFhzbDZQajRLWWNOLVNIbXh0Z1dQV0d2ajhkZTVSTldFMURCbnRlQmFqaldzUHd1Q3gyb0VwdzRpYjJCaHVUMEg4bm94RW1aWEdsbGVxSzg2NWNFWUxRcVF1U1lTZ0xVRjFKQ1pqenRxdWpwNm9ZaEpLcDNBRF9hUS1TZ0RnenJxOC01cUUtT0xVeEE0cDZ3OVB3UklXVFk3UXRRNGhLMHoxUWpOcWkyeTFhR0JwQTlXRElSbjc4SmVBUDRFLVR3?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "name": "HDFC Bank Limited",
+      "sector": "Financial Services",
+      "score": 68.8,
+      "thesis": "Among banks experts suggest ahead of Q2 results.",
+      "sources": [
+        {
+          "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXR5dHMzdWxSTFZsLURrTlVYYUo0UFV4Rk0tWWVQVXJBaUJhWDdlUERvUmRJTy1tRWdPa0o1dVRHWmYtYWJBc0RCb0prZV9iS1plTWZyU1BtVmFCWGN2cHRIQzBkcExBRW1vYmNfRW50a2JSWVY4LUlMYVZrek1kNnUyZW1WTGhNazdpVHY4UmdQcUtjbUdMT2lDTEJtRVRlcmpVYXJWb1pNR2N3SmVzdHRna0p5RXFSN29WUkFtU2o3VkJNNjVGdnROUjVuVWVxSHE1OVZDdUVyNjVKc3piMDVSLVBUcFRzREx0VnBXUEZUYkFLa3Vqa09oYWxVLTVfTXfSAYcCQVVfeXFMTzBGalJmV0N2ZDZnRHNCZW0xdUY3aU9QZm5sWkJfNDNTRS1MZmVwODdyd0dkSHFTcFYtSDA1aFlMZk40Q0RDVVpCTlBVbkdlOVBOcHg0QkJQcVItR2t6eTFRY3hXX0hRenNMZ2g1MzJkV1FtUTJUb1FTSE4xS25yYWd5WnJGWjR4ZzVBX29VdGs2U3hmN1ctcVQ2Ykp1eEhJaTlpQ18yaWkwWTZ3VDBYd0FXOWhNcTFBZmZpWXRTMU11ejdyU0JVR1dyUDhITzB2ek90ZDBVTDRqSlBzVHE5YnZOalRGek5sdjcyRmJNRXNrQURkNjE5bmllVmU3UW9rU3JuU05MNkE?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-10-15"
+        },
+        {
+          "title": "Stock Picks Today: ICICI Bank, Hindalco, Godrej Consumer, DMart, IndiGo And More On Brokerages' Radar",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2NGX1F3dGRfYWR2b1NxOFhFRWVWcDhzRXV0OEc5X3ZraWMxNm9NWFJMeUtCb2U2VXFXZXAtTmo2X1gta2l4X1B3Yk8wY0tVQndacXlONHNmeEV6SXNHN2IxLUNnWkYyeEZkOV83S0tPb0h2Q0o2dlhqWXBEazAyZU5BcEFvRXJzYWt3X1V0alo5NllJbmxURWdKYlFYeDBpWG1PYmh5VGdWcnNIYkdXSm4wNUIyQVRERkxFZkJMcTN6YkhfMzVTUWhFRTBrV2VpODZTZml30gHeAUFVX3lxTE9RUE1NVEd1QktFVm50V0FMdUhYZmhoekd0eTVHVk9ORktqbld5ZnluNzVsNUJuTmtxODY1YjROMTVTellFSnk5U3A2bFY2bU0weFo1LWlnekJCS3RhTkFqT21JLThxaHo3WlowWjFfOTZTRlF1YVloUnprcFBCY1Q0RkMwdDB2R2FtLW5OWXl6Vy1PWXU4OFBReFZCaFNVdlN2anlvTkMxUzRpMTlfcDNjaEFBOTcxZVB1bDJQbFh2SmVSWXVuejVDZlN1QjltSFhKOXduM1pPYXd3NDdRZw?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-04-07"
+        }
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "name": "Reliance Industries Limited",
+      "sector": "Oil Gas & Consumable Fuels",
+      "score": 67.6,
+      "thesis": "Brokerages see up to 34% upside on AI, a Jio listing and new businesses.",
+      "sources": [
+        {
+          "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new...",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTDhvSGF2ME5SQ2JDeDBHM0gwc3JiZlNlUHJEMkpfaEFNRFkzQjhkSEM3a3ZXUEVYQ1BDRE9ETmU5TVFlZUNFU195VEhON0w0N2FOS3VadVBldGxFOFdiZW5iVlhPUzY1VDQwaHpfMUtVQlh6OUhxS2ZMMEljWjFsSG5CamlZM2N6ZFEtSTZWNTQ0TnB1UmUtS1p2MDRpWDlkX3FNWFMzWU9zWlpCTTRydjU1NVpUM1ZZdWFqWEVSVHVZUXFDX1FNaGFacHpEYzhuUjdnOF96OHZKMEhTcEdXRWVHSVlZNEdVa2I0Z0JPQW03dFJwRHdiMUl6RUFycG45ZEHSAYcCQVVfeXFMUDdnLWdJckZIX0xkcDYtT1JyRGZYNVBndUNibkRka1FXQk5kajJEWXBvZXRON1pCYjdHY0E4ajk4M3RaWDlFZ2dVckkyZ3I4ZDVZSXlPeTBKR28yczg2Z0cwV2NXbkpZNjlweER3dUc2WWN6cHQ0bkZVOFpNYjBpY25uWHVuNDIxNVg4Nm95OEt0SkFYN0dIdHhCVWxRUHJQOFdFaHB4NXVVV0JVUWxEVHZ6c2hJOEh2TzlCSHo4N1ZXY3FWb3BPR0lDUmRuWHNpc1pwVERFZ09pU1lsX0RxQ0Y0c0RNX252SzlHSkotNmpwY1d1SVBXTmhnODYzeEFzUG9PSzc4V2c?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-06-22"
+        }
+      ]
+    },
+    {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Limited",
+      "sector": "Automobile and Auto Components",
+      "score": 66.8,
+      "thesis": "Named with BEL as set for the next upmove by Bajaj Broking.",
+      "sources": [
+        {
+          "title": "Ashok Leyland, BEL, 1 more defence stock set for next upmove: Bajaj Broking",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcjAxcUJNaXFyNk82b2ZPYnRXRzNNNkZrN2o0Z3kzRTRmZ3FBTVhHWGdCMGlDdmZhSU5ZeDZWTzRxNDFvVGxNLTk2UmFnUTkyUFNYYV9sckJyQXNhS0tBbEFJR2RicjRuTkxDQ1R4ZGlZcF9wWHA1R2I0RGplRlIta2QxWkh3X212cC1EaUVtQV9hMUpPb21HOWtEVU1YLVE2czM3UDRSN0JyVWpwdEwzVGEybFlrdHFKdW1OdTZDWE9GLXFQaDhvcnNpaFByVzBLM3cwVWdlWGRYckFaX0pmY0JSUEZzSFhiVE12X29SWkFMdGtr0gH6AUFVX3lxTE9aaExqNk1Tc01qdEQ2eVdoQV8xdFYzTGdJRFV4UU1MS1RfU1FPcm51eHYwYWpUTHZKSnVlVVdtaVQwNDFfN3lHbjY5S2FGblFMYUU1eGF3azgtNTI4VDIzX05QS3dXUWl3NHNZNDZBNUVmQ2MyWUVQZEV0dFpvUFR2LS14TldHSm5NcjhLNXpIRHkwZzI0VzhKaW1scDN0MW80LWp4eEpRYkRBcWNsUEhRbnA3WF9jbVFoWXkySnZIUkF4ZWp5OWFkU3hFeS1QTmNjZE5hdFVvMHVCcks2N2xxeWw3T1JHUGVjeERzUUl5eUdvbmxNcW9HUUE?oc=5",
+          "publisher": "Business Standard",
+          "published_at": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Limited",
+      "sector": "Automobile and Auto Components",
+      "score": 66.8,
+      "thesis": "A June stock pick of YES Securities amid an auto volume boom.",
+      "sources": [
+        {
+          "title": "Stocks to buy: 3 stocks to beat the market in 2026: YES Securities lists Entero, Maruti and Lupin as June stock picks",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQjVTWVBGUjV4bWs4MTVXRHgteTAzNnlTMHpZa213R2dRZ09FTWc2QW9oSDV0MEtrRXBqcVlHXzdSZEk2X1Ytd2hVRVNKVF9peUtHUjdKNGxpcllpYVJ1VUFreVNSQjFxM1pIbHdpWEJEVldhZUJ2RHBNaTh3UlhKaFV2U01ldjZCWXJsdWZaUm1GUUNDMnhHSnJaV1VvN0FlaVRoaEo3QzY4WVdMNlFSZTJRZS05Vm1RN1F4UXBQNEkybFYxUmp4WHZNclRORHV4RktGNktMYlVWOVlHOUJiQkVaXy14aUVPR0NSRW1LRUtXMXhUcEswN2g1S2ttMkpuZEZxd2FtSWY5SmpvbUpaa1VR0gGXAkFVX3lxTE9WZXJKaEp3UElIVWEzTTZIRXRPUExpaDdHSHVEWEdiZUxyUWZnLVNBeEctMktqOXB5ZTdLd1JFc3dPa1FRQVM1RVlXS1Fnb2NvX0t5WDJUZ0o4NldYX3gyUnNObFZzcUNMQVVEMl85UVNEM3RyTWhGNWg0cTlFb05WWnZWNnhVLUt6bW1GTDdxWFlPX3BKbk4zNFZQdGpKN3NnczUyR0NBZ05SYjc1VXg4RXBIaWhYblkwTEd4aHQ3VEg2VmdmU0JleDhCbHhqaFJJTXJFZVRORWpnLU1mT05kR1hrZ2RGc0Z5NnZ1NzFVZERPSkYyWnJQTmIxUHNiZUxSaDN3Y1JPTXpYTUQ4WXJiVFc5RkQ1bw?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-06-13"
+        },
+        {
+          "title": "3 Bearings Stocks in India Riding the Industrial Capex and Auto Volume Boom in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14Wjk3Ql9FTmc2STZuSjlsZHFsNE4wdHF5bnJUcXNaX1JVT1lGaHdxaFU0SGsxOXl4Q3RydUZvbXFUX0EwOXVTc2h6Y2NCeHlLN3VVTGY3bEQ2bFhQWjR2Ug?oc=5",
+          "publisher": "Univest",
+          "published_at": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "symbol": "MCX",
+      "name": "Multi Commodity Exchange of India Limited",
+      "sector": "Financial Services",
+      "score": 66.8,
+      "thesis": "Macquarie is bullish on MCX as part of the exchange sector boom.",
+      "sources": [
+        {
+          "title": "NSE IPO: Macquarie starts coverage with Outperform, sees NSE as ‘The Dominator’; bullish on BSE, MCX...",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQejEwTXZqR3RmLUxKYm9XUWJvcnRkQUl0aDh4S0lUdjlNZ0ktcHh1cEg5Z2RKQkh2V2tSRlFjdTFCdHlENmNQTWQ1Rl90MkhBc3FvYlZhYjRtX1ExM3ItaUFpTVBLZEctUVFLTXRRelhxbjRya0tjSHhHYUtlOU9nSTFzTjNfNXRWMjZJNTBGWHgwRDRFMFFsQUNWZFRfMW5MQVZ4cEMtaHg4ay1vMnk3UWRBMzlneE5Tb3NvTlJvaGgzWnBOZGQxSDdpMk05ekNxTDFFdk4xUTZ0dTJkZ3RSQ3lEOTgzc1I5bzdsTDkwelRXODNabnfSAfsBQVVfeXFMUF94dXhtMk9GLXowUklGV2ptaUFqQXFCNkpfNFpQNE9YSkREUTFmY0xtR3pmbmNyMnM1OEk2Y3BBWHNpbHlNbjlvclZwSFpyQTh4bl9MRVMwdjUtV0ZlUmRnUnJCdDRqTVFOX2pPbjExTURlZVFIajE0c2FZSkhWRTlBV0I1WENQRkpJWFFoWlhHaUJoOFMwRzF5TmVlWEF3aHNFbjgyVU9TY190MDhVNnk3TEwzdDZzVVpFVG1yUjZURkl6UFdzRzdzb3pfYk03dEppZXdxeU42Nzh0NFZDTEZuOFY3NXo1NHlUNnZHeEFvUEQ0dDliczlFU2M?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "sector": "Financial Services",
+      "score": 66.8,
+      "thesis": "Among banks experts suggest ahead of Q2 results.",
+      "sources": [
+        {
+          "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXR5dHMzdWxSTFZsLURrTlVYYUo0UFV4Rk0tWWVQVXJBaUJhWDdlUERvUmRJTy1tRWdPa0o1dVRHWmYtYWJBc0RCb0prZV9iS1plTWZyU1BtVmFCWGN2cHRIQzBkcExBRW1vYmNfRW50a2JSWVY4LUlMYVZrek1kNnUyZW1WTGhNazdpVHY4UmdQcUtjbUdMT2lDTEJtRVRlcmpVYXJWb1pNR2N3SmVzdHRna0p5RXFSN29WUkFtU2o3VkJNNjVGdnROUjVuVWVxSHE1OVZDdUVyNjVKc3piMDVSLVBUcFRzREx0VnBXUEZUYkFLa3Vqa09oYWxVLTVfTXfSAYcCQVVfeXFMTzBGalJmV0N2ZDZnRHNCZW0xdUY3aU9QZm5sWkJfNDNTRS1MZmVwODdyd0dkSHFTcFYtSDA1aFlMZk40Q0RDVVpCTlBVbkdlOVBOcHg0QkJQcVItR2t6eTFRY3hXX0hRenNMZ2g1MzJkV1FtUTJUb1FTSE4xS25yYWd5WnJGWjR4ZzVBX29VdGs2U3hmN1ctcVQ2Ykp1eEhJaTlpQ18yaWkwWTZ3VDBYd0FXOWhNcTFBZmZpWXRTMU11ejdyU0JVR1dyUDhITzB2ek90ZDBVTDRqSlBzVHE5YnZOalRGek5sdjcyRmJNRXNrQURkNjE5bmllVmU3UW9rU3JuU05MNkE?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "name": "Titan Company Limited",
+      "sector": "Consumer Discretionary",
+      "score": 66.0,
+      "thesis": "Motilal Oswal's top jewellery bet.",
+      "sources": [
+        {
+          "title": "Motilal Oswal bullish on jewellery stocks; picks Titan, Kalyan Jewellers as top bets, sees up to 34% upside",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb0t5TXhOazFMOWFySzJ3ZnZxbEwtU2FVcGl6Wl9XbU1KUVdyVmt1clV5N1ljY0F5dVBmbzBMY01kLUlvRVg3UGQxdFBya3l5S1BGNG8wVzYzSHhkWjlpZnJXQVRwZXZ3bWlCMzVUbm1VOGx2cUdud3ptZzF1VE95QTZieEx4bmRtLXR3Qm44eUduSlotSEkzTWVEbzF3ZTZ6U1lUNVo1dWdHZm5BdV9iMDl5aXlyaGJPbDlxelJHNnBkcTVTblZJYWk2Y1BZcTVNelNSVXlvbzN3dVI1Y1UzZkFoLTBGOHV4THNFcWZoQnVJb0RldEFGTjRwS2RxSjFXUzVv0gGIAkFVX3lxTE9UOWM1U3ZoTlJRWHI5WFFoVWRBbzQwcHc5WndmVzRzcU1rTzdFbVBST3dVLXFfWE5IcFlFcEl0alNwRFNad3RJZEN5MVZUc2ItbjRDS0Y5d0VwNjdQRDJQMkRsZV9nNUgyWFBkTHhZNHJybDhtTkhyQVMyVmJDdUJ4VDRnamNxTTA2V09iZkZXTlk3LUFLdXAtWDNHQk5GNUFRRE5HVHd4NXdvM1NhNTEtNndLaFNrTmxEbVZ2NWdfanBCVmVEMkcyTWhFOVh4V1RMRGVMaGF5NkJMX1VsYVVqdEgzNXhUUmR5TGZ0UFgzRlBnZWJPSGZKNUdTTnE3dG9WSk5RVW83RA?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-08-12"
+        },
+        {
+          "title": "Jewellery stocks deliver a glittering Q1: Is the best of the rally already over?",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNV9IcnVRaGl4NjZRTWNoMUhzS2ZhXzFDZ1RrUWttZ2loWDJQbzNacU12VmhZTTJXaHFVU3BSODBBazRkUnRxNHRNaVZzTEZ5ZTZpc2xYMDNqeUtaOWllcmRMd1BpUnRHSWhocmIzMm9YLU5IQV9TbUJ3TVZpdFlZcFIyUzdhUm9XMGVwS3dzS1J3NzJoSzY2bzVmUF9DendiRFd5VmtXWFRFcnZBR0llYTB0UlV0a3ZiOU1EMVRvNkN6YjJTVFptVk1tRXg0N01wVmxweXlNOC1ZOHfSAeABQVVfeXFMTjRKaGk4UEZiREJhT1p0b3FNNVRiN0h6YU0yRWM3U2FvOUo2ZDVLamFqX0F1cnJqZG5pb3FobDNnbXlfTjFhTVV6ckV3Zkowemp6TkhRV2ZVcXNlbWZFb0xEbHRjLUtoc2MtcXJXRnBtN2JwOURVc0ptMmdhRkZCM0MwTEZDTXdIZDR6S2pjMUEzeHdBMXNlOTQ4cllaNElNU0l5Z1ZWY3E5VXRZcnhfWDNRN2hjTlo0cjJwQmZKM2NDeU9YM3loOWd6ZkZRMGtKLUg5UnBLQVJUQXhKQUpxanI?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-08-12"
+        }
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "name": "Axis Bank Limited",
+      "sector": "Financial Services",
+      "score": 65.6,
+      "thesis": "Among banks experts suggest ahead of Q2 results.",
+      "sources": [
+        {
+          "title": "ICICI Bank, HDFC Bank, SBI, Axis Bank: Which banking stock to buy ahead of Q2 results - What experts suggest",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdXR5dHMzdWxSTFZsLURrTlVYYUo0UFV4Rk0tWWVQVXJBaUJhWDdlUERvUmRJTy1tRWdPa0o1dVRHWmYtYWJBc0RCb0prZV9iS1plTWZyU1BtVmFCWGN2cHRIQzBkcExBRW1vYmNfRW50a2JSWVY4LUlMYVZrek1kNnUyZW1WTGhNazdpVHY4UmdQcUtjbUdMT2lDTEJtRVRlcmpVYXJWb1pNR2N3SmVzdHRna0p5RXFSN29WUkFtU2o3VkJNNjVGdnROUjVuVWVxSHE1OVZDdUVyNjVKc3piMDVSLVBUcFRzREx0VnBXUEZUYkFLa3Vqa09oYWxVLTVfTXfSAYcCQVVfeXFMTzBGalJmV0N2ZDZnRHNCZW0xdUY3aU9QZm5sWkJfNDNTRS1MZmVwODdyd0dkSHFTcFYtSDA1aFlMZk40Q0RDVVpCTlBVbkdlOVBOcHg0QkJQcVItR2t6eTFRY3hXX0hRenNMZ2g1MzJkV1FtUTJUb1FTSE4xS25yYWd5WnJGWjR4ZzVBX29VdGs2U3hmN1ctcVQ2Ykp1eEhJaTlpQ18yaWkwWTZ3VDBYd0FXOWhNcTFBZmZpWXRTMU11ejdyU0JVR1dyUDhITzB2ek90ZDBVTDRqSlBzVHE5YnZOalRGek5sdjcyRmJNRXNrQURkNjE5bmllVmU3UW9rU3JuU05MNkE?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "symbol": "KALYANKJIL",
+      "name": "Kalyan Jewellers India Limited",
+      "sector": "Consumer Discretionary",
+      "score": 64.4,
+      "thesis": "Motilal Oswal's top jewellery bet.",
+      "sources": [
+        {
+          "title": "Motilal Oswal bullish on jewellery stocks; picks Titan, Kalyan Jewellers as top bets, sees up to 34% upside",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb0t5TXhOazFMOWFySzJ3ZnZxbEwtU2FVcGl6Wl9XbU1KUVdyVmt1clV5N1ljY0F5dVBmbzBMY01kLUlvRVg3UGQxdFBya3l5S1BGNG8wVzYzSHhkWjlpZnJXQVRwZXZ3bWlCMzVUbm1VOGx2cUdud3ptZzF1VE95QTZieEx4bmRtLXR3Qm44eUduSlotSEkzTWVEbzF3ZTZ6U1lUNVo1dWdHZm5BdV9iMDl5aXlyaGJPbDlxelJHNnBkcTVTblZJYWk2Y1BZcTVNelNSVXlvbzN3dVI1Y1UzZkFoLTBGOHV4THNFcWZoQnVJb0RldEFGTjRwS2RxSjFXUzVv0gGIAkFVX3lxTE9UOWM1U3ZoTlJRWHI5WFFoVWRBbzQwcHc5WndmVzRzcU1rTzdFbVBST3dVLXFfWE5IcFlFcEl0alNwRFNad3RJZEN5MVZUc2ItbjRDS0Y5d0VwNjdQRDJQMkRsZV9nNUgyWFBkTHhZNHJybDhtTkhyQVMyVmJDdUJ4VDRnamNxTTA2V09iZkZXTlk3LUFLdXAtWDNHQk5GNUFRRE5HVHd4NXdvM1NhNTEtNndLaFNrTmxEbVZ2NWdfanBCVmVEMkcyTWhFOVh4V1RMRGVMaGF5NkJMX1VsYVVqdEgzNXhUUmR5TGZ0UFgzRlBnZWJPSGZKNUdTTnE3dG9WSk5RVW83RA?oc=5",
+          "publisher": "Livemint",
+          "published_at": "2026-08-12"
+        },
+        {
+          "title": "Jewellery stocks deliver a glittering Q1: Is the best of the rally already over?",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNV9IcnVRaGl4NjZRTWNoMUhzS2ZhXzFDZ1RrUWttZ2loWDJQbzNacU12VmhZTTJXaHFVU3BSODBBazRkUnRxNHRNaVZzTEZ5ZTZpc2xYMDNqeUtaOWllcmRMd1BpUnRHSWhocmIzMm9YLU5IQV9TbUJ3TVZpdFlZcFIyUzdhUm9XMGVwS3dzS1J3NzJoSzY2bzVmUF9DendiRFd5VmtXWFRFcnZBR0llYTB0UlV0a3ZiOU1EMVRvNkN6YjJTVFptVk1tRXg0N01wVmxweXlNOC1ZOHfSAeABQVVfeXFMTjRKaGk4UEZiREJhT1p0b3FNNVRiN0h6YU0yRWM3U2FvOUo2ZDVLamFqX0F1cnJqZG5pb3FobDNnbXlfTjFhTVV6ckV3Zkowemp6TkhRV2ZVcXNlbWZFb0xEbHRjLUtoc2MtcXJXRnBtN2JwOURVc0ptMmdhRkZCM0MwTEZDTXdIZDR6S2pjMUEzeHdBMXNlOTQ4cllaNElNU0l5Z1ZWY3E5VXRZcnhfWDNRN2hjTlo0cjJwQmZKM2NDeU9YM3loOWd6ZkZRMGtKLUg5UnBLQVJUQXhKQUpxanI?oc=5",
+          "publisher": "Moneycontrol.com",
+          "published_at": "2026-08-12"
+        }
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "name": "Suzlon Energy Limited",
+      "sector": "Power & Renewables",
+      "score": 63.0,
+      "thesis": "On brokerage watchlists for 2026.",
+      "sources": [
+        {
+          "title": "5 Stocks to Watch: Suzlon, ICICI Bank, Wipro Alert 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVNqMUZZQnI1OU8zTWd6QXVUdDR3dHowbWMyZndFY3ZoazRoNmhaZ08yM1VuUkdEcS1yODRmMm5LNU5tbjFFUWFpN0V6Zktyc0h4TjhTMVZTZVVpWDMzTHhiUS1sa1Awelo1ZUpaWVRnaDU4blIzcTdFQjNhcGQ1aQ?oc=5",
+          "publisher": "NiftyTrader",
+          "published_at": "2026-05-25"
+        }
+      ]
+    },
+    {
+      "symbol": "DMART",
+      "name": "Avenue Supermarts Limited",
+      "sector": "Consumer Discretionary",
+      "score": 61.2,
+      "thesis": "On brokerages' radar for April 2026.",
+      "sources": [
+        {
+          "title": "Stock Picks Today: ICICI Bank, Hindalco, Godrej Consumer, DMart, IndiGo And More On Brokerages' Radar",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV2NGX1F3dGRfYWR2b1NxOFhFRWVWcDhzRXV0OEc5X3ZraWMxNm9NWFJMeUtCb2U2VXFXZXAtTmo2X1gta2l4X1B3Yk8wY0tVQndacXlONHNmeEV6SXNHN2IxLUNnWkYyeEZkOV83S0tPb0h2Q0o2dlhqWXBEazAyZU5BcEFvRXJzYWt3X1V0alo5NllJbmxURWdKYlFYeDBpWG1PYmh5VGdWcnNIYkdXSm4wNUIyQVRERkxFZkJMcTN6YkhfMzVTUWhFRTBrV2VpODZTZml30gHeAUFVX3lxTE9RUE1NVEd1QktFVm50V0FMdUhYZmhoekd0eTVHVk9ORktqbld5ZnluNzVsNUJuTmtxODY1YjROMTVTellFSnk5U3A2bFY2bU0weFo1LWlnekJCS3RhTkFqT21JLThxaHo3WlowWjFfOTZTRlF1YVloUnprcFBCY1Q0RkMwdDB2R2FtLW5OWXl6Vy1PWXU4OFBReFZCaFNVdlN2anlvTkMxUzRpMTlfcDNjaEFBOTcxZVB1bDJQbFh2SmVSWXVuejVDZlN1QjltSFhKOXduM1pPYXd3NDdRZw?oc=5",
+          "publisher": "NDTV Profit",
+          "published_at": "2026-04-07"
+        }
+      ]
+    }
+  ],
+  "notes": "80 Google News headlines read on 2026-10-22; every sector and stock cites at least one. Selection ignores prices."
+}

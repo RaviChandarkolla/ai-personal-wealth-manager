@@ -4,8 +4,23 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Any, Literal
 
-from pydantic import BaseModel
+from pydantic import BaseModel, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
+
+# <repo>/ai-personal-wealth-manager  (config.py -> wealth_advisor -> src -> project root)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+_PATH_FIELDS = (
+    "db_path",
+    "db_path_synthetic",
+    "db_path_real",
+    "history_db_path",
+    "curated_funds_csv",
+    "llm_cache_dir",
+    "log_dir",
+    "trend_view_path",
+    "nse_full_universe_path",
+)
 
 
 class RiskWeights(BaseModel):
@@ -260,6 +275,13 @@ class Settings(BaseSettings):
     curated_funds_csv: Path = Path("data/curated_funds.csv")
     mfapi_base_url: str = "https://api.mfapi.in/mf"
     nav_history_years: float = 7.0
+
+    @field_validator(*_PATH_FIELDS)
+    @classmethod
+    def _anchor_to_project_root(cls, v: Path) -> Path:
+        """Relative data/log paths always resolve under the project root, never the CWD."""
+        v = Path(v).expanduser()
+        return v if v.is_absolute() else PROJECT_ROOT / v
 
     def active_db_path(self, mode: str | None = None) -> Path:
         """Resolve the SQLite database path for the given (or configured) data_mode."""

@@ -1,4 +1,5 @@
 import sqlite3
+from collections.abc import Sequence
 from datetime import date
 from pathlib import Path
 
@@ -29,11 +30,19 @@ def bootstrap_real(
     csv_path: Path | None = None,
     provider_name: str | None = None,
     refresh_amfi: bool = False,
+    allowed_plans: Sequence[str] | None = None,
+    allowed_options: Sequence[str] | None = None,
 ) -> RealSyncReport:
     """Load curated real mutual funds, fetch historical NAVs, compute stats, and index fact sheets."""
     store = MetadataStore(conn)
     provider = get_market_data_provider(provider_name)
-    report = provider.sync(store, csv_path=csv_path, refresh_amfi=refresh_amfi)
+    report = provider.sync(
+        store,
+        csv_path=csv_path,
+        refresh_amfi=refresh_amfi,
+        allowed_plans=allowed_plans,
+        allowed_options=allowed_options,
+    )
     compute_all_stats(store)
     build_demo_corpus(store, VectorIndex(conn))
     return report

@@ -82,5 +82,39 @@ class ScriptedLLM:
         raise AssertionError(f"unexpected schema {schema}")
 
 
+class Stock360FakeLLM:
+    """Answers the four 360 part prompts by citing the first fact of each section."""
 
+    model = "stock360-fake"
+
+    def __init__(self, *, bad_first: bool = False, always_bad: bool = False, action: str = "BUY",
+                 quote: bool = False, fail: bool = False) -> None:
+        self.bad_first, self.always_bad, self.action, self.quote, self.fail = bad_first, always_bad, action, quote, fail
+        self.calls = 0
+        self.prompts: list[str] = []
+
+    def complete(self, messages, schema=None):
+        from wealth_advisor.agents.stock_360_analyst import FinalDraft, SectionText
+
+        self.calls += 1
+        user = messages[-1]["content"]
+        self.prompts.append(user)
+        if self.fail:
+            raise RuntimeError("boom")
+        blocks = re.split(r"^## (\w+): ", user.split("FACTS:", 1)[1], flags=re.MULTILINE)[1:]
+        secs = []
+        for sid, body in zip(blocks[0::2], blocks[1::2], strict=True):
+            m = re.search(r"\[(F\d+)\]", body)
+            cite = f" [{m.group(1)}]" if m else ""
+            txt = f"Assessment for this area is balanced{cite}."
+            bad = self.always_bad or (self.bad_first and self.calls == 1)
+            if bad:
+                txt += " Value is 98765.43 now."
+            if self.quote:
+                txt += ' As he said, "be greedy when others are fearful".'
+            secs.append(SectionText(id=sid, commentary=txt))
+        out = schema(sections=secs)
+        if hasattr(out, "final"):
+            out.final = FinalDraft(action=self.action, thesis="Balanced view on the cited evidence.")
+        return out
 

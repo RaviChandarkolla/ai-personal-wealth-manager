@@ -1,0 +1,71 @@
+"""M14: Document ingestion (Bank statements PDF/CSV + OCR, CAS PDF/JSON, PII redaction, profile update)."""
+
+from wealth_advisor.ingestion.categorizer import (
+    VALID_CATEGORIES,
+    CategorizedTransaction,
+    CategorizerLLM,
+    ConfirmationQueue,
+    ConfirmationQueueItem,
+    TransactionCategorizer,
+    TransactionCategory,
+)
+from wealth_advisor.ingestion.parsers import (
+    ActiveSIP,
+    BankFormat,
+    CASHolding,
+    OCRProvider,
+    ParsedBankStatement,
+    ParsedCASStatement,
+    RawTransaction,
+    RegexLayoutOCR,
+    detect_bank_format,
+    parse_bank_csv,
+    parse_bank_pdf,
+    parse_cas_statement,
+)
+from wealth_advisor.ingestion.pii import (
+    EncryptedDocumentStore,
+    StoredDocumentMeta,
+    contains_raw_pii,
+    decrypt_bytes,
+    encrypt_bytes,
+    redact_pii,
+    scrub_text,
+)
+from wealth_advisor.ingestion.profile_updater import (
+    DerivedFinancialSummary,
+    derive_financial_summary,
+    update_profile_from_ingestion,
+)
+
+__all__ = [
+    "ActiveSIP",
+    "BankFormat",
+    "CASHolding",
+    "CategorizedTransaction",
+    "CategorizerLLM",
+    "ConfirmationQueue",
+    "ConfirmationQueueItem",
+    "DerivedFinancialSummary",
+    "EncryptedDocumentStore",
+    "OCRProvider",
+    "ParsedBankStatement",
+    "ParsedCASStatement",
+    "RawTransaction",
+    "RegexLayoutOCR",
+    "StoredDocumentMeta",
+    "TransactionCategorizer",
+    "TransactionCategory",
+    "VALID_CATEGORIES",
+    "contains_raw_pii",
+    "decrypt_bytes",
+    "derive_financial_summary",
+    "detect_bank_format",
+    "encrypt_bytes",
+    "parse_bank_csv",
+    "parse_bank_pdf",
+    "parse_cas_statement",
+    "redact_pii",
+    "scrub_text",
+    "update_profile_from_ingestion",
+]

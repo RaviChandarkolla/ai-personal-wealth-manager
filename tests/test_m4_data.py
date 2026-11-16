@@ -109,14 +109,14 @@ def test_cli_funds_command(tmp_path, capsys):
 
 def test_settings_active_db_path_switches_by_data_mode(tmp_path):
     from pathlib import Path
-    from wealth_advisor.config import Settings
+    from wealth_advisor.config import PROJECT_ROOT, Settings
 
     s_syn = Settings(data_mode="synthetic")
-    assert s_syn.active_db_path() == Path("data/wealth_synthetic.db")
-    assert s_syn.active_db_path("real") == Path("data/wealth_real.db")
+    assert s_syn.active_db_path() == PROJECT_ROOT / "data/wealth_synthetic.db"
+    assert s_syn.active_db_path("real") == PROJECT_ROOT / "data/wealth_real.db"
 
     s_real = Settings(data_mode="real")
-    assert s_real.active_db_path() == Path("data/wealth_real.db")
+    assert s_real.active_db_path() == PROJECT_ROOT / "data/wealth_real.db"
 
     custom = tmp_path / "custom.db"
     s_override = Settings(data_mode="real", db_path=custom)

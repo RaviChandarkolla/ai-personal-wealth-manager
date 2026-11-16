@@ -108,6 +108,8 @@ def main(argv: list[str] | None = None) -> int:
         help="Market data provider (default: WEALTH_REAL_DATA_PROVIDER)",
     )
     sr.add_argument("--refresh-amfi", action="store_true", help="Also fetch latest AMFI NAVAll.txt")
+    sr.add_argument("--plans", nargs="*", default=None, help="Allowed plans for scheme_master (default: direct)")
+    sr.add_argument("--options", nargs="*", default=None, help="Allowed options for scheme_master (default: growth)")
     fn = sub.add_parser("funds", help="Query funds with exact filters")
     fn.add_argument("--category")
     fn.add_argument("--max-expense", type=float)
@@ -158,6 +160,9 @@ def main(argv: list[str] | None = None) -> int:
     ss.add_argument("--ter-file", type=Path, help="Optional AMFI TER CSV/HTML/XLSX/JSON export file")
     ss.add_argument("--aum-file", type=Path, help="Optional AMFI quarterly average AUM CSV/HTML/XLSX/JSON export file")
     ss.add_argument("--skip-ter-aum", action="store_true", help="Skip automatic live AMFI TER and AUM download")
+    ss.add_argument("--plans", nargs="*", default=None, help="Allowed plans for scheme_master (default: direct)")
+    ss.add_argument("--options", nargs="*", default=None, help="Allowed options for scheme_master (default: growth)")
+    ss.add_argument("--no-prune", action="store_true", help="Do not purge non-conforming schemes from scheme_master")
     cmp_p = sub.add_parser("compare", help="Compare two mutual funds head-to-head")
     cmp_p.add_argument("code_a", help="First fund scheme code")
     cmp_p.add_argument("code_b", help="Second fund scheme code")
@@ -279,6 +284,8 @@ def main(argv: list[str] | None = None) -> int:
             csv_path=args.csv,
             provider_name=args.provider,
             refresh_amfi=args.refresh_amfi,
+            allowed_plans=args.plans,
+            allowed_options=args.options,
         )
         print(
             f"Synced {rep.schemes_synced}/{rep.funds_loaded} real funds "
@@ -313,7 +320,13 @@ def main(argv: list[str] | None = None) -> int:
         from .data.amfi_ter import load_ter_file, sync_latest_ter
 
         text = args.file.read_text(encoding="utf-8", errors="replace") if args.file else fetch_nav_all()
-        count, rejected = sync_scheme_master(store, text)
+        count, rejected = sync_scheme_master(
+            store,
+            text,
+            allowed_plans=args.plans,
+            allowed_options=args.options,
+            purge_disallowed=not args.no_prune,
+        )
         print(
             f"Synced {count} open-ended schemes into scheme_master "
             f"({len(rejected)} rejected rows, db={db_file})"

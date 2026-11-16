@@ -70,6 +70,8 @@ def facts_for_fund(
 
     add("category", rec.category, meta)
     add("plan", rec.plan, meta)
+    if rec.option:
+        add("option", rec.option, meta)
     add("expense_ratio", rec.expense_ratio, meta)
     add("aum_cr", rec.aum_cr, meta)
     add("rating", rec.rating, meta)

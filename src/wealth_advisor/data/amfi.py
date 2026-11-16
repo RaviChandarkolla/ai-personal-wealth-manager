@@ -2,6 +2,7 @@
 
 import re
 import urllib.request
+from collections.abc import Sequence
 from datetime import date, datetime
 
 import pandas as pd
@@ -217,8 +218,26 @@ def _parse_sebi_category(section: str) -> tuple[str, str]:
     return sebi_cat, sebi_cat
 
 
-def build_scheme_master(rows: list[AmfiRow]) -> list[SchemeMasterRecord]:
-    """Convert open-ended AmfiRows into SchemeMasterRecord entries."""
+def build_scheme_master(
+    rows: list[AmfiRow],
+    *,
+    allowed_plans: Sequence[str] | None = None,
+    allowed_options: Sequence[str] | None = None,
+) -> list[SchemeMasterRecord]:
+    """Convert open-ended AmfiRows into SchemeMasterRecord entries, filtered by allowed plans and options."""
+    from ..config import get_settings
+
+    s = get_settings()
+    plans = {
+        p.lower() for p in (allowed_plans if allowed_plans is not None else s.master_allowed_plans)
+    }
+    options = {
+        o.lower()
+        for o in (allowed_options if allowed_options is not None else s.master_allowed_options)
+    }
+    filter_plan = bool(plans and "all" not in plans)
+    filter_option = bool(options and "all" not in options)
+
     out: dict[str, SchemeMasterRecord] = {}
     for r in rows:
         if not r.section.startswith("Open Ended"):
@@ -232,6 +251,10 @@ def build_scheme_master(rows: list[AmfiRow]) -> list[SchemeMasterRecord]:
             if any(k in option_probe for k in ("idcw", "dividend", "payout", "reinvestment"))
             else "growth"
         )
+        if filter_plan and plan not in plans:
+            continue
+        if filter_option and option not in options:
+            continue
         isin_g = "" if r.isin_payout in ("-", "") else r.isin_payout
         isin_r = "" if r.isin_reinvest in ("-", "") else r.isin_reinvest
         ter_val, aum_val = default_ter_aum_for_master(r.code, category, plan)
@@ -305,11 +328,22 @@ def enrich_master_metadata(store: MetadataStore) -> int:
     return updated
 
 
-def sync_scheme_master(store: MetadataStore, text: str) -> tuple[int, list[str]]:
+def sync_scheme_master(
+    store: MetadataStore,
+    text: str,
+    *,
+    allowed_plans: Sequence[str] | None = None,
+    allowed_options: Sequence[str] | None = None,
+    purge_disallowed: bool = True,
+) -> tuple[int, list[str]]:
     """Parse NAVAll.txt text, build open-ended scheme_master rows, and upsert into store."""
     rows, rejected = parse_nav_all(text)
-    master_rows = build_scheme_master(rows)
+    master_rows = build_scheme_master(
+        rows, allowed_plans=allowed_plans, allowed_options=allowed_options
+    )
     count = store.upsert_master(master_rows)
+    if purge_disallowed:
+        store.prune_master(allowed_plans=allowed_plans, allowed_options=allowed_options)
     enrich_master_metadata(store)
     return count, rejected
 
